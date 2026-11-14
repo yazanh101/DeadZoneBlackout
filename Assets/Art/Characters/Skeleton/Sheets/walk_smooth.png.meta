@@ -1,0 +1,2639 @@
+fileFormatVersion: 2
+guid: 912e9b657b9c77a4e88aa63d618a9d07
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8937952485325296534
+    second: walk_smooth_0
+  - first:
+      213: 4427216180518022774
+    second: walk_smooth_1
+  - first:
+      213: -6099528765842879493
+    second: walk_smooth_2
+  - first:
+      213: -7514987635116557468
+    second: walk_smooth_3
+  - first:
+      213: 1947183239546987627
+    second: walk_smooth_4
+  - first:
+      213: 6684055653159308065
+    second: walk_smooth_5
+  - first:
+      213: 6294369272145489864
+    second: walk_smooth_6
+  - first:
+      213: 5115251733863515512
+    second: walk_smooth_7
+  - first:
+      213: 7823283081209766918
+    second: walk_smooth_8
+  - first:
+      213: -1834496816825297578
+    second: walk_smooth_9
+  - first:
+      213: 4152389277600137148
+    second: walk_smooth_10
+  - first:
+      213: -8845303287376334338
+    second: walk_smooth_11
+  - first:
+      213: 4818257035667194667
+    second: walk_smooth_12
+  - first:
+      213: -517142993158981159
+    second: walk_smooth_13
+  - first:
+      213: -284059493880026550
+    second: walk_smooth_14
+  - first:
+      213: -4986052283089559536
+    second: walk_smooth_15
+  - first:
+      213: -399157173051343838
+    second: walk_smooth_16
+  - first:
+      213: 1353210437386559824
+    second: walk_smooth_17
+  - first:
+      213: 3051799892837626099
+    second: walk_smooth_18
+  - first:
+      213: -1677812950990524224
+    second: walk_smooth_19
+  - first:
+      213: -3753422880517351118
+    second: walk_smooth_20
+  - first:
+      213: 4224462544959651847
+    second: walk_smooth_21
+  - first:
+      213: 3534741348415706174
+    second: walk_smooth_22
+  - first:
+      213: 2343645949434898402
+    second: walk_smooth_23
+  - first:
+      213: 4664984706634153864
+    second: walk_smooth_24
+  - first:
+      213: -818222734093417057
+    second: walk_smooth_25
+  - first:
+      213: 3712240681356060418
+    second: walk_smooth_26
+  - first:
+      213: 246402840905749591
+    second: walk_smooth_27
+  - first:
+      213: 2757049427061418004
+    second: walk_smooth_28
+  - first:
+      213: 229070878818427828
+    second: walk_smooth_29
+  - first:
+      213: 1198109095894758303
+    second: walk_smooth_30
+  - first:
+      213: 3675878365061921781
+    second: walk_smooth_31
+  - first:
+      213: 9025832343517135003
+    second: walk_smooth_32
+  - first:
+      213: 6603869793971842178
+    second: walk_smooth_33
+  - first:
+      213: 5887707634207437118
+    second: walk_smooth_34
+  - first:
+      213: -86478779665516399
+    second: walk_smooth_35
+  - first:
+      213: 9077616115354713810
+    second: walk_smooth_36
+  - first:
+      213: -8991786959597685645
+    second: walk_smooth_37
+  - first:
+      213: 7606092080875475012
+    second: walk_smooth_38
+  - first:
+      213: -359362708358935970
+    second: walk_smooth_39
+  - first:
+      213: -3951516672224691947
+    second: walk_smooth_40
+  - first:
+      213: -6348940145044958437
+    second: walk_smooth_41
+  - first:
+      213: 6579205102967405325
+    second: walk_smooth_42
+  - first:
+      213: 2847740620975129876
+    second: walk_smooth_43
+  - first:
+      213: 8194210011481492350
+    second: walk_smooth_44
+  - first:
+      213: 62938880119821643
+    second: walk_smooth_45
+  - first:
+      213: -931903942139192189
+    second: walk_smooth_46
+  - first:
+      213: 3364832715756161373
+    second: walk_smooth_47
+  - first:
+      213: 7269977791776982121
+    second: walk_smooth_48
+  - first:
+      213: 4696317197743347659
+    second: walk_smooth_49
+  - first:
+      213: 2431460502744504944
+    second: walk_smooth_50
+  - first:
+      213: -9135669431417523409
+    second: walk_smooth_51
+  - first:
+      213: -882688909431064148
+    second: walk_smooth_52
+  - first:
+      213: -4158037627814962026
+    second: walk_smooth_53
+  - first:
+      213: 3414909860699310624
+    second: walk_smooth_54
+  - first:
+      213: -5792013491602131940
+    second: walk_smooth_55
+  - first:
+      213: 3001226467813337769
+    second: walk_smooth_56
+  - first:
+      213: -188647508789389238
+    second: walk_smooth_57
+  - first:
+      213: -6072715515627660208
+    second: walk_smooth_58
+  - first:
+      213: -9003440827603569314
+    second: walk_smooth_59
+  - first:
+      213: 1808841471364800196
+    second: walk_smooth_60
+  - first:
+      213: -8252309660344601380
+    second: walk_smooth_61
+  - first:
+      213: -2527615384098562316
+    second: walk_smooth_62
+  - first:
+      213: -6673198494814802858
+    second: walk_smooth_63
+  - first:
+      213: -7917361099576892092
+    second: walk_smooth_64
+  - first:
+      213: -7234530752976428423
+    second: walk_smooth_65
+  - first:
+      213: 2544471585298860691
+    second: walk_smooth_66
+  - first:
+      213: -9136230445593849719
+    second: walk_smooth_67
+  - first:
+      213: -1411002618972870839
+    second: walk_smooth_68
+  - first:
+      213: -616875345443091023
+    second: walk_smooth_69
+  - first:
+      213: 777350402116549127
+    second: walk_smooth_70
+  - first:
+      213: 7127037336496210958
+    second: walk_smooth_71
+  - first:
+      213: -2255181200708010513
+    second: walk_smooth_72
+  - first:
+      213: -2390639614466306091
+    second: walk_smooth_73
+  - first:
+      213: -8787949143823354574
+    second: walk_smooth_74
+  - first:
+      213: -3550084797159668850
+    second: walk_smooth_75
+  - first:
+      213: -7449425581538899749
+    second: walk_smooth_76
+  - first:
+      213: -875448198406049413
+    second: walk_smooth_77
+  - first:
+      213: 3643437326213321234
+    second: walk_smooth_78
+  - first:
+      213: -2975526456449471277
+    second: walk_smooth_79
+  - first:
+      213: 7057416028673179806
+    second: walk_smooth_80
+  - first:
+      213: -1606820055622595568
+    second: walk_smooth_81
+  - first:
+      213: -3542286642118765914
+    second: walk_smooth_82
+  - first:
+      213: 283790149701517181
+    second: walk_smooth_83
+  - first:
+      213: 4691968891886912402
+    second: walk_smooth_84
+  - first:
+      213: -7449681542950503028
+    second: walk_smooth_85
+  - first:
+      213: -51377176614058774
+    second: walk_smooth_86
+  - first:
+      213: -4825284403370942620
+    second: walk_smooth_87
+  - first:
+      213: 1676577971166455489
+    second: walk_smooth_88
+  - first:
+      213: -3210584744976929738
+    second: walk_smooth_89
+  - first:
+      213: -8815698937557921540
+    second: walk_smooth_90
+  - first:
+      213: 460705010954376090
+    second: walk_smooth_91
+  - first:
+      213: -8490726340919005138
+    second: walk_smooth_92
+  - first:
+      213: 8959307980043704307
+    second: walk_smooth_93
+  - first:
+      213: -5057293167469457305
+    second: walk_smooth_94
+  - first:
+      213: -5792029280611491551
+    second: walk_smooth_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walk_smooth_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cadd4e19306f380800000000000000
+      internalID: -8937952485325296534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e63a7e8a1a07d30800000000000000
+      internalID: 4427216180518022774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_2
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb88a677ee1a5ba0800000000000000
+      internalID: -6099528765842879493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_3
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bbc6ddf8665b790800000000000000
+      internalID: -7514987635116557468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_4
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64eac9f6d8c50b10800000000000000
+      internalID: 1947183239546987627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_5
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b8081f33982cc50800000000000000
+      internalID: 6684055653159308065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_6
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfad5701871a5750800000000000000
+      internalID: 6294369272145489864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_7
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875c2a5a9560df640800000000000000
+      internalID: 5115251733863515512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_8
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604e4d84382e19c60800000000000000
+      internalID: 7823283081209766918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_9
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6551b8b5dde8a86e0800000000000000
+      internalID: -1834496816825297578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_10
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf3f743c0040a930800000000000000
+      internalID: 4152389277600137148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_11
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1b659468b2f3580800000000000000
+      internalID: -8845303287376334338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b234877ee33edd240800000000000000
+      internalID: 4818257035667194667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_13
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d93daa003db2d8f0800000000000000
+      internalID: -517142993158981159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_14
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a24343561de0cf0800000000000000
+      internalID: -284059493880026550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_15
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010ebe2addbfdcab0800000000000000
+      internalID: -4986052283089559536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_16
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cb9ba7aa8e57af0800000000000000
+      internalID: -399157173051343838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_17
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051e6c229b197c210800000000000000
+      internalID: 1353210437386559824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_18
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0792a55db2a5a20800000000000000
+      internalID: 3051799892837626099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_19
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0f8a0b20637b8e0800000000000000
+      internalID: -1677812950990524224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_20
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23990f2d6c929ebc0800000000000000
+      internalID: -3753422880517351118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_21
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700434f6d4e40aa30800000000000000
+      internalID: 4224462544959651847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_22
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34143d478ced0130800000000000000
+      internalID: 3534741348415706174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_23
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7a957e29d468020800000000000000
+      internalID: 2343645949434898402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ffe81efda5db040800000000000000
+      internalID: 4664984706634153864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_25
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95863b22c615a4f0800000000000000
+      internalID: -818222734093417057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_26
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2076bfc3b37848330800000000000000
+      internalID: 3712240681356060418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_27
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75495db04166b6300800000000000000
+      internalID: 246402840905749591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_28
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418a030b8d1034620800000000000000
+      internalID: 2757049427061418004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_29
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3eb5820c2dd2300800000000000000
+      internalID: 229070878818427828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_30
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93b8f6ffd980a010800000000000000
+      internalID: 1198109095894758303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_31
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb3f0bb5e7530330800000000000000
+      internalID: 3675878365061921781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_32
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90029d02b2324d70800000000000000
+      internalID: 9025832343517135003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_33
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28caf9cb698a5ab50800000000000000
+      internalID: 6603869793971842178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_34
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e313a4e16e655b150800000000000000
+      internalID: 5887707634207437118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_35
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1987d611204cccef0800000000000000
+      internalID: -86478779665516399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de341bf2cb2afd70800000000000000
+      internalID: 9077616115354713810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_37
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374b0399661c63380800000000000000
+      internalID: -8991786959597685645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_38
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4409e71e2744e8960800000000000000
+      internalID: 7606092080875475012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_39
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a4ebe4589430bf0800000000000000
+      internalID: -359362708358935970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_40
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519730cc5846929c0800000000000000
+      internalID: -3951516672224691947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_41
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13d062839804e7a0800000000000000
+      internalID: -6348940145044958437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_42
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b3fcade280e4b50800000000000000
+      internalID: 6579205102967405325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_43
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4154cadb105358720800000000000000
+      internalID: 2847740620975129876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_44
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bcd45379ea7b170800000000000000
+      internalID: 8194210011481492350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_45
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b455a18f39a9fd000800000000000000
+      internalID: 62938880119821643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_46
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cd1045d463113f0800000000000000
+      internalID: -931903942139192189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_47
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59424ff68942be20800000000000000
+      internalID: 3364832715756161373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96488db984624e460800000000000000
+      internalID: 7269977791776982121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_49
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7dc04fb9bac2140800000000000000
+      internalID: 4696317197743347659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_50
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a9a7fd1784eb120800000000000000
+      internalID: 2431460502744504944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_51
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23b6f21e05973180800000000000000
+      internalID: -9135669431417523409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_52
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca93f221d1f00c3f0800000000000000
+      internalID: -882688909431064148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_53
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c9167ceceab46c0800000000000000
+      internalID: -4158037627814962026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_54
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a06f2ec62346f20800000000000000
+      internalID: 3414909860699310624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_55
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14f8c2ba62ae9fa0800000000000000
+      internalID: -5792013491602131940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_56
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaa380429f76a920800000000000000
+      internalID: 3001226467813337769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_57
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4898da171ac16df0800000000000000
+      internalID: -188647508789389238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_58
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c9205c96169bba0800000000000000
+      internalID: -6072715515627660208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_59
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55b072054a5d0380800000000000000
+      internalID: -9003440827603569314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce91bb0cbb4a1910800000000000000
+      internalID: 1808841471364800196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_61
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4b2a62618e97d80800000000000000
+      internalID: -8252309660344601380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_62
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe1ef5333b1cecd0800000000000000
+      internalID: -2527615384098562316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_63
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c64e833590463a0800000000000000
+      internalID: -6673198494814802858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_64
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44529352702ef1290800000000000000
+      internalID: -7917361099576892092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_65
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97263304c98c99b90800000000000000
+      internalID: -7234530752976428423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_66
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a40d6fc67cf4320800000000000000
+      internalID: 2544471585298860691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_67
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9801548c0d6953180800000000000000
+      internalID: -9136230445593849719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_68
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947e9f6089c1b6ce0800000000000000
+      internalID: -1411002618972870839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_69
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd0b24442b6077f0800000000000000
+      internalID: -616875345443091023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_70
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70af9287214b9ca00800000000000000
+      internalID: 777350402116549127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_71
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e048dc662b258e260800000000000000
+      internalID: 7127037336496210958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedf8ab75acf3b0e0800000000000000
+      internalID: -2255181200708010513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_73
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df42c1dfedb2ded0800000000000000
+      internalID: -2390639614466306091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_74
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235f53270deea0680800000000000000
+      internalID: -8787949143823354574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_75
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8388c6afa09bbec0800000000000000
+      internalID: -3550084797159668850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_76
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd88aaff6e25e9890800000000000000
+      internalID: -7449425581538899749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_77
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7170ca7088c9d3f0800000000000000
+      internalID: -875448198406049413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_78
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2121856c1f6109230800000000000000
+      internalID: 3643437326213321234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_79
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc6d8fe37ec4b6d0800000000000000
+      internalID: -2975526456449471277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_80
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90863d7c7af0f160800000000000000
+      internalID: 7057416028673179806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_81
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c44a63cad63b9e0800000000000000
+      internalID: -1606820055622595568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_82
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a256eb111547dec0800000000000000
+      internalID: -3542286642118765914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_83
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fb6b733a930f300800000000000000
+      internalID: 283790149701517181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2934a1a19d83d1140800000000000000
+      internalID: 4691968891886912402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_85
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8db6a65b1a6d9890800000000000000
+      internalID: -7449681542950503028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_86
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae44b56eab8794ff0800000000000000
+      internalID: -51377176614058774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_87
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f97dc8665290db0800000000000000
+      internalID: -4825284403370942620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_88
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c62f9928c6644710800000000000000
+      internalID: 1676577971166455489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_89
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cac525f26b173d0800000000000000
+      internalID: -3210584744976929738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_90
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0521c168858a580800000000000000
+      internalID: -8815698937557921540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_91
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a939d2c34c0c46600800000000000000
+      internalID: 460705010954376090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_92
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e207874f061ea2a80800000000000000
+      internalID: -8490726340919005138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_93
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7d3dfa32bd55c70800000000000000
+      internalID: 8959307980043704307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_94
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76019fba8a2e0d9b0800000000000000
+      internalID: -5057293167469457305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_smooth_95
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121ad788e049e9fa0800000000000000
+      internalID: -5792029280611491551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b4c14f01c0a873645b6cb3fbb3d9b572
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      walk_smooth_0: -8937952485325296534
+      walk_smooth_1: 4427216180518022774
+      walk_smooth_10: 4152389277600137148
+      walk_smooth_11: -8845303287376334338
+      walk_smooth_12: 4818257035667194667
+      walk_smooth_13: -517142993158981159
+      walk_smooth_14: -284059493880026550
+      walk_smooth_15: -4986052283089559536
+      walk_smooth_16: -399157173051343838
+      walk_smooth_17: 1353210437386559824
+      walk_smooth_18: 3051799892837626099
+      walk_smooth_19: -1677812950990524224
+      walk_smooth_2: -6099528765842879493
+      walk_smooth_20: -3753422880517351118
+      walk_smooth_21: 4224462544959651847
+      walk_smooth_22: 3534741348415706174
+      walk_smooth_23: 2343645949434898402
+      walk_smooth_24: 4664984706634153864
+      walk_smooth_25: -818222734093417057
+      walk_smooth_26: 3712240681356060418
+      walk_smooth_27: 246402840905749591
+      walk_smooth_28: 2757049427061418004
+      walk_smooth_29: 229070878818427828
+      walk_smooth_3: -7514987635116557468
+      walk_smooth_30: 1198109095894758303
+      walk_smooth_31: 3675878365061921781
+      walk_smooth_32: 9025832343517135003
+      walk_smooth_33: 6603869793971842178
+      walk_smooth_34: 5887707634207437118
+      walk_smooth_35: -86478779665516399
+      walk_smooth_36: 9077616115354713810
+      walk_smooth_37: -8991786959597685645
+      walk_smooth_38: 7606092080875475012
+      walk_smooth_39: -359362708358935970
+      walk_smooth_4: 1947183239546987627
+      walk_smooth_40: -3951516672224691947
+      walk_smooth_41: -6348940145044958437
+      walk_smooth_42: 6579205102967405325
+      walk_smooth_43: 2847740620975129876
+      walk_smooth_44: 8194210011481492350
+      walk_smooth_45: 62938880119821643
+      walk_smooth_46: -931903942139192189
+      walk_smooth_47: 3364832715756161373
+      walk_smooth_48: 7269977791776982121
+      walk_smooth_49: 4696317197743347659
+      walk_smooth_5: 6684055653159308065
+      walk_smooth_50: 2431460502744504944
+      walk_smooth_51: -9135669431417523409
+      walk_smooth_52: -882688909431064148
+      walk_smooth_53: -4158037627814962026
+      walk_smooth_54: 3414909860699310624
+      walk_smooth_55: -5792013491602131940
+      walk_smooth_56: 3001226467813337769
+      walk_smooth_57: -188647508789389238
+      walk_smooth_58: -6072715515627660208
+      walk_smooth_59: -9003440827603569314
+      walk_smooth_6: 6294369272145489864
+      walk_smooth_60: 1808841471364800196
+      walk_smooth_61: -8252309660344601380
+      walk_smooth_62: -2527615384098562316
+      walk_smooth_63: -6673198494814802858
+      walk_smooth_64: -7917361099576892092
+      walk_smooth_65: -7234530752976428423
+      walk_smooth_66: 2544471585298860691
+      walk_smooth_67: -9136230445593849719
+      walk_smooth_68: -1411002618972870839
+      walk_smooth_69: -616875345443091023
+      walk_smooth_7: 5115251733863515512
+      walk_smooth_70: 777350402116549127
+      walk_smooth_71: 7127037336496210958
+      walk_smooth_72: -2255181200708010513
+      walk_smooth_73: -2390639614466306091
+      walk_smooth_74: -8787949143823354574
+      walk_smooth_75: -3550084797159668850
+      walk_smooth_76: -7449425581538899749
+      walk_smooth_77: -875448198406049413
+      walk_smooth_78: 3643437326213321234
+      walk_smooth_79: -2975526456449471277
+      walk_smooth_8: 7823283081209766918
+      walk_smooth_80: 7057416028673179806
+      walk_smooth_81: -1606820055622595568
+      walk_smooth_82: -3542286642118765914
+      walk_smooth_83: 283790149701517181
+      walk_smooth_84: 4691968891886912402
+      walk_smooth_85: -7449681542950503028
+      walk_smooth_86: -51377176614058774
+      walk_smooth_87: -4825284403370942620
+      walk_smooth_88: 1676577971166455489
+      walk_smooth_89: -3210584744976929738
+      walk_smooth_9: -1834496816825297578
+      walk_smooth_90: -8815698937557921540
+      walk_smooth_91: 460705010954376090
+      walk_smooth_92: -8490726340919005138
+      walk_smooth_93: 8959307980043704307
+      walk_smooth_94: -5057293167469457305
+      walk_smooth_95: -5792029280611491551
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2639 @@
+fileFormatVersion: 2
+guid: 17ac2b4e56f8d754aa22a669e6ae38b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1111226019742460632
+    second: idle_smooth_0
+  - first:
+      213: 5127785062432979239
+    second: idle_smooth_1
+  - first:
+      213: -6379538333137888083
+    second: idle_smooth_2
+  - first:
+      213: -8043981664049148951
+    second: idle_smooth_3
+  - first:
+      213: 3511910675778548613
+    second: idle_smooth_4
+  - first:
+      213: -8053293714905339452
+    second: idle_smooth_5
+  - first:
+      213: -3898945961323581298
+    second: idle_smooth_6
+  - first:
+      213: 8936885664824512080
+    second: idle_smooth_7
+  - first:
+      213: -1469080082483955266
+    second: idle_smooth_8
+  - first:
+      213: -3841075675580378913
+    second: idle_smooth_9
+  - first:
+      213: -5153095385220636103
+    second: idle_smooth_10
+  - first:
+      213: -8150337218418712339
+    second: idle_smooth_11
+  - first:
+      213: 9210909406313056754
+    second: idle_smooth_12
+  - first:
+      213: -7131967297609459640
+    second: idle_smooth_13
+  - first:
+      213: -6977595252808432612
+    second: idle_smooth_14
+  - first:
+      213: -1953836191095804789
+    second: idle_smooth_15
+  - first:
+      213: 7950109296058785862
+    second: idle_smooth_16
+  - first:
+      213: -490677166644073145
+    second: idle_smooth_17
+  - first:
+      213: 440289208782373
+    second: idle_smooth_18
+  - first:
+      213: 8829699072335860763
+    second: idle_smooth_19
+  - first:
+      213: 6909273475283924028
+    second: idle_smooth_20
+  - first:
+      213: 8449552366799367804
+    second: idle_smooth_21
+  - first:
+      213: -3133650609651813442
+    second: idle_smooth_22
+  - first:
+      213: -9005183971445250652
+    second: idle_smooth_23
+  - first:
+      213: -2616510101174555687
+    second: idle_smooth_24
+  - first:
+      213: -2860709589370330764
+    second: idle_smooth_25
+  - first:
+      213: 7944877371156963627
+    second: idle_smooth_26
+  - first:
+      213: 404477854724593581
+    second: idle_smooth_27
+  - first:
+      213: -1352876536276086449
+    second: idle_smooth_28
+  - first:
+      213: 9087557002085178692
+    second: idle_smooth_29
+  - first:
+      213: -8687543624208520089
+    second: idle_smooth_30
+  - first:
+      213: 8547525186507830223
+    second: idle_smooth_31
+  - first:
+      213: 6948151843034408221
+    second: idle_smooth_32
+  - first:
+      213: -327391683055300805
+    second: idle_smooth_33
+  - first:
+      213: 7510440055046585419
+    second: idle_smooth_34
+  - first:
+      213: 8767760759133976637
+    second: idle_smooth_35
+  - first:
+      213: 3586488752514306835
+    second: idle_smooth_36
+  - first:
+      213: 2748236860085297722
+    second: idle_smooth_37
+  - first:
+      213: -472690982792007885
+    second: idle_smooth_38
+  - first:
+      213: 6478943918501331473
+    second: idle_smooth_39
+  - first:
+      213: -2785047653297630384
+    second: idle_smooth_40
+  - first:
+      213: 2995582896980645054
+    second: idle_smooth_41
+  - first:
+      213: 4847741067581003945
+    second: idle_smooth_42
+  - first:
+      213: -1901361564200740450
+    second: idle_smooth_43
+  - first:
+      213: 5207618224958098283
+    second: idle_smooth_44
+  - first:
+      213: 524083237829473687
+    second: idle_smooth_45
+  - first:
+      213: -8027870344361728488
+    second: idle_smooth_46
+  - first:
+      213: 3093738887168784773
+    second: idle_smooth_47
+  - first:
+      213: 6470328440236464325
+    second: idle_smooth_48
+  - first:
+      213: 8150517291559136892
+    second: idle_smooth_49
+  - first:
+      213: -6242835182839760159
+    second: idle_smooth_50
+  - first:
+      213: 5751241492917564762
+    second: idle_smooth_51
+  - first:
+      213: -3415364238466874850
+    second: idle_smooth_52
+  - first:
+      213: -8461403802878436636
+    second: idle_smooth_53
+  - first:
+      213: 6706732958415235234
+    second: idle_smooth_54
+  - first:
+      213: -3243710806073826527
+    second: idle_smooth_55
+  - first:
+      213: 1559953381931030277
+    second: idle_smooth_56
+  - first:
+      213: 3056870531812044357
+    second: idle_smooth_57
+  - first:
+      213: -2038176690823679626
+    second: idle_smooth_58
+  - first:
+      213: 4951750421381969605
+    second: idle_smooth_59
+  - first:
+      213: 8446946230278622166
+    second: idle_smooth_60
+  - first:
+      213: 6200345566983767458
+    second: idle_smooth_61
+  - first:
+      213: 1888115887997249073
+    second: idle_smooth_62
+  - first:
+      213: 1420337174351257219
+    second: idle_smooth_63
+  - first:
+      213: -6462027878039725785
+    second: idle_smooth_64
+  - first:
+      213: 8351442204465653205
+    second: idle_smooth_65
+  - first:
+      213: -2600199881618352535
+    second: idle_smooth_66
+  - first:
+      213: -7533172640804755944
+    second: idle_smooth_67
+  - first:
+      213: -4216741273854077864
+    second: idle_smooth_68
+  - first:
+      213: -374484558533276120
+    second: idle_smooth_69
+  - first:
+      213: -1729798775572729454
+    second: idle_smooth_70
+  - first:
+      213: 6575428353106485028
+    second: idle_smooth_71
+  - first:
+      213: -5569845656630625086
+    second: idle_smooth_72
+  - first:
+      213: 6864623519192900072
+    second: idle_smooth_73
+  - first:
+      213: 1243857799263027397
+    second: idle_smooth_74
+  - first:
+      213: -748701395259213969
+    second: idle_smooth_75
+  - first:
+      213: 4536885702414467509
+    second: idle_smooth_76
+  - first:
+      213: -5232581402075716207
+    second: idle_smooth_77
+  - first:
+      213: 4287695518633708878
+    second: idle_smooth_78
+  - first:
+      213: -4718249121332286760
+    second: idle_smooth_79
+  - first:
+      213: 1337695002019385622
+    second: idle_smooth_80
+  - first:
+      213: 5436973268620153719
+    second: idle_smooth_81
+  - first:
+      213: 3204132982594103381
+    second: idle_smooth_82
+  - first:
+      213: -3234925324782289206
+    second: idle_smooth_83
+  - first:
+      213: -3943140424894718986
+    second: idle_smooth_84
+  - first:
+      213: -2671040715456309775
+    second: idle_smooth_85
+  - first:
+      213: -216833169304639904
+    second: idle_smooth_86
+  - first:
+      213: 4562497911810498822
+    second: idle_smooth_87
+  - first:
+      213: 5004587236023880468
+    second: idle_smooth_88
+  - first:
+      213: -598672515938959337
+    second: idle_smooth_89
+  - first:
+      213: -2704992859413706962
+    second: idle_smooth_90
+  - first:
+      213: -3240151043122546693
+    second: idle_smooth_91
+  - first:
+      213: 5479911519866931301
+    second: idle_smooth_92
+  - first:
+      213: -2176083516926026253
+    second: idle_smooth_93
+  - first:
+      213: -3712205622061385628
+    second: idle_smooth_94
+  - first:
+      213: 6908215780872078880
+    second: idle_smooth_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle_smooth_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8daabeb6d2edb6f00800000000000000
+      internalID: 1111226019742460632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7293fda985d892740800000000000000
+      internalID: 5127785062432979239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_2
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac145eafa35777a0800000000000000
+      internalID: -6379538333137888083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_3
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb489e9b490e5090800000000000000
+      internalID: -8043981664049148951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_4
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583bea81720dcb030800000000000000
+      internalID: 3511910675778548613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_5
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c96e23d804fc3090800000000000000
+      internalID: -8053293714905339452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_6
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e803dd04e4924e9c0800000000000000
+      internalID: -3898945961323581298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_7
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e452a9922360c70800000000000000
+      internalID: 8936885664824512080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_8
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb931f0d277cc9be0800000000000000
+      internalID: -1469080082483955266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_9
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd053a12602c1bac0800000000000000
+      internalID: -3841075675580378913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_10
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9322836ac078c78b0800000000000000
+      internalID: -5153095385220636103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_11
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0e1807b7f24ee80800000000000000
+      internalID: -8150337218418712339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f90895bd49b3df70800000000000000
+      internalID: 9210909406313056754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_13
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84819449789260d90800000000000000
+      internalID: -7131967297609459640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_14
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14c6e1261a9a2f90800000000000000
+      internalID: -6977595252808432612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_15
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cae68065492e4e0800000000000000
+      internalID: -1953836191095804789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_16
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6406d158846745e60800000000000000
+      internalID: 7950109296058785862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_17
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74de8c677b3c039f0800000000000000
+      internalID: -490677166644073145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_18
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e43e1d070910000800000000000000
+      internalID: 440289208782373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_19
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14dc284684698a70800000000000000
+      internalID: 8829699072335860763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_20
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34b35e6e9ba2ef50800000000000000
+      internalID: 6909273475283924028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_21
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e23262c17d24570800000000000000
+      internalID: 8449552366799367804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_22
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb374819f590384d0800000000000000
+      internalID: -3133650609651813442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_23
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5e6f4b3e8270380800000000000000
+      internalID: -9005183971445250652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbe4440de940bbd0800000000000000
+      internalID: -2616510101174555687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_25
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471270009c7bc48d0800000000000000
+      internalID: -2860709589370330764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_26
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21a9d310efd14e60800000000000000
+      internalID: 7944877371156963627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_27
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da71f52477efc9500800000000000000
+      internalID: 404477854724593581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_28
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f419d4645fd993de0800000000000000
+      internalID: -1352876536276086449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_29
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d966902fc7d1e70800000000000000
+      internalID: 9087557002085178692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_30
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c67543a15af6780800000000000000
+      internalID: -8687543624208520089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_31
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3f082ded8ee9670800000000000000
+      internalID: 8547525186507830223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_32
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15aa81d94bcc6060800000000000000
+      internalID: 6948151843034408221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_33
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f4215bffed47bf0800000000000000
+      internalID: -327391683055300805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_34
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cbae320717a3860800000000000000
+      internalID: 7510440055046585419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_35
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d383ac3f4f75da970800000000000000
+      internalID: 8767760759133976637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3139c84b484c5c130800000000000000
+      internalID: 3586488752514306835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_37
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32e40c0dd2b32620800000000000000
+      internalID: 2748236860085297722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_38
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fe62a3e0aa079f0800000000000000
+      internalID: -472690982792007885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_39
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11203fdba25d9e950800000000000000
+      internalID: 6478943918501331473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_40
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053d8a64ae58959d0800000000000000
+      internalID: -2785047653297630384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_41
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb454c506c2729920800000000000000
+      internalID: 2995582896980645054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_42
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a81d3801d2a64340800000000000000
+      internalID: 4847741067581003945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_43
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99db303bb10d95e0800000000000000
+      internalID: -1901361564200740450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_44
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b4a783f2d254840800000000000000
+      internalID: 5207618224958098283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_45
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795ff879deae54700800000000000000
+      internalID: 524083237829473687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_46
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8162d6d8476479090800000000000000
+      internalID: -8027870344361728488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_47
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589f185602b2fea20800000000000000
+      internalID: 3093738887168784773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8d6646f693bc950800000000000000
+      internalID: 6470328440236464325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_49
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7eaf0b1b447c1170800000000000000
+      internalID: 8150517291559136892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_50
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea76872a7efc59a0800000000000000
+      internalID: -6242835182839760159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_51
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55b6da9aa380df40800000000000000
+      internalID: 5751241492917564762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_52
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e120c9b02503a90d0800000000000000
+      internalID: -3415364238466874850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_53
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea9a4c521e039a80800000000000000
+      internalID: -8461403802878436636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_54
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8aeb5871a131d50800000000000000
+      internalID: 6706732958415235234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_55
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123afd135360cf2d0800000000000000
+      internalID: -3243710806073826527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_56
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5071b2cf55116a510800000000000000
+      internalID: 1559953381931030277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_57
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e240d7d8f2c6a20800000000000000
+      internalID: 3056870531812044357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_58
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67139f13911f6b3e0800000000000000
+      internalID: -2038176690823679626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_59
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6fcd2d5c628b440800000000000000
+      internalID: 4951750421381969605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db0594b7d4993570800000000000000
+      internalID: 8446946230278622166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_61
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a54cbc317d0c0650800000000000000
+      internalID: 6200345566983767458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_62
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136e8de756fe33a10800000000000000
+      internalID: 1888115887997249073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_63
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e1d72822d06b310800000000000000
+      internalID: 1420337174351257219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_64
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72955c8d1e34256a0800000000000000
+      internalID: -6462027878039725785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_65
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d56167ef6846e370800000000000000
+      internalID: 8351442204465653205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_66
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966102febfb3aebd0800000000000000
+      internalID: -2600199881618352535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_67
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8162429456bc47790800000000000000
+      internalID: -7533172640804755944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_68
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854133617202b75c0800000000000000
+      internalID: -4216741273854077864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_69
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e41c237409dcaf0800000000000000
+      internalID: -374484558533276120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_70
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291f411bd258ef7e0800000000000000
+      internalID: -1729798775572729454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_71
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f91f0cf3d904b50800000000000000
+      internalID: 6575428353106485028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc77c6b2eee3b2b0800000000000000
+      internalID: -5569845656630625086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_73
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1e84a68ba044f50800000000000000
+      internalID: 6864623519192900072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_74
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c00c240412134110800000000000000
+      internalID: 1243857799263027397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_75
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f673cbc3c041c95f0800000000000000
+      internalID: -748701395259213969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_76
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b186f6428146fe30800000000000000
+      internalID: 4536885702414467509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_77
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19526fe20f22267b0800000000000000
+      internalID: -5232581402075716207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_78
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d42356b54f08b30800000000000000
+      internalID: 4287695518633708878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_79
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8daa0392c69658eb0800000000000000
+      internalID: -4718249121332286760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_80
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6115e255482709210800000000000000
+      internalID: 1337695002019385622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_81
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7731669a162047b40800000000000000
+      internalID: 5436973268620153719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_82
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55862a0b8fd577c20800000000000000
+      internalID: 3204132982594103381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_83
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acebf657e8c3b13d0800000000000000
+      internalID: -3234925324782289206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbdaaadca62749c0800000000000000
+      internalID: -3943140424894718986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_85
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f51f9efe9e8eead0800000000000000
+      internalID: -2671040715456309775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_86
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0662310a167adfcf0800000000000000
+      internalID: -216833169304639904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_87
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6012de97daf315f30800000000000000
+      internalID: 4562497911810498822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_88
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b48a2639dd37540800000000000000
+      internalID: 5004587236023880468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_89
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7104ba6c48611b7f0800000000000000
+      internalID: -598672515938959337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_90
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e278da6735fe57ad0800000000000000
+      internalID: -2704992859413706962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_91
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7b1181bcba803d0800000000000000
+      internalID: -3240151043122546693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_92
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5684d365e7e8c0c40800000000000000
+      internalID: 5479911519866931301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_93
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd9a0c129ffcc1e0800000000000000
+      internalID: -2176083516926026253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_94
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468b2d3a7a89b7cc0800000000000000
+      internalID: -3712205622061385628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_smooth_95
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026c0a2c6a9eedf50800000000000000
+      internalID: 6908215780872078880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 762aa99a93f1511429d17468ab6631e1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      idle_smooth_0: 1111226019742460632
+      idle_smooth_1: 5127785062432979239
+      idle_smooth_10: -5153095385220636103
+      idle_smooth_11: -8150337218418712339
+      idle_smooth_12: 9210909406313056754
+      idle_smooth_13: -7131967297609459640
+      idle_smooth_14: -6977595252808432612
+      idle_smooth_15: -1953836191095804789
+      idle_smooth_16: 7950109296058785862
+      idle_smooth_17: -490677166644073145
+      idle_smooth_18: 440289208782373
+      idle_smooth_19: 8829699072335860763
+      idle_smooth_2: -6379538333137888083
+      idle_smooth_20: 6909273475283924028
+      idle_smooth_21: 8449552366799367804
+      idle_smooth_22: -3133650609651813442
+      idle_smooth_23: -9005183971445250652
+      idle_smooth_24: -2616510101174555687
+      idle_smooth_25: -2860709589370330764
+      idle_smooth_26: 7944877371156963627
+      idle_smooth_27: 404477854724593581
+      idle_smooth_28: -1352876536276086449
+      idle_smooth_29: 9087557002085178692
+      idle_smooth_3: -8043981664049148951
+      idle_smooth_30: -8687543624208520089
+      idle_smooth_31: 8547525186507830223
+      idle_smooth_32: 6948151843034408221
+      idle_smooth_33: -327391683055300805
+      idle_smooth_34: 7510440055046585419
+      idle_smooth_35: 8767760759133976637
+      idle_smooth_36: 3586488752514306835
+      idle_smooth_37: 2748236860085297722
+      idle_smooth_38: -472690982792007885
+      idle_smooth_39: 6478943918501331473
+      idle_smooth_4: 3511910675778548613
+      idle_smooth_40: -2785047653297630384
+      idle_smooth_41: 2995582896980645054
+      idle_smooth_42: 4847741067581003945
+      idle_smooth_43: -1901361564200740450
+      idle_smooth_44: 5207618224958098283
+      idle_smooth_45: 524083237829473687
+      idle_smooth_46: -8027870344361728488
+      idle_smooth_47: 3093738887168784773
+      idle_smooth_48: 6470328440236464325
+      idle_smooth_49: 8150517291559136892
+      idle_smooth_5: -8053293714905339452
+      idle_smooth_50: -6242835182839760159
+      idle_smooth_51: 5751241492917564762
+      idle_smooth_52: -3415364238466874850
+      idle_smooth_53: -8461403802878436636
+      idle_smooth_54: 6706732958415235234
+      idle_smooth_55: -3243710806073826527
+      idle_smooth_56: 1559953381931030277
+      idle_smooth_57: 3056870531812044357
+      idle_smooth_58: -2038176690823679626
+      idle_smooth_59: 4951750421381969605
+      idle_smooth_6: -3898945961323581298
+      idle_smooth_60: 8446946230278622166
+      idle_smooth_61: 6200345566983767458
+      idle_smooth_62: 1888115887997249073
+      idle_smooth_63: 1420337174351257219
+      idle_smooth_64: -6462027878039725785
+      idle_smooth_65: 8351442204465653205
+      idle_smooth_66: -2600199881618352535
+      idle_smooth_67: -7533172640804755944
+      idle_smooth_68: -4216741273854077864
+      idle_smooth_69: -374484558533276120
+      idle_smooth_7: 8936885664824512080
+      idle_smooth_70: -1729798775572729454
+      idle_smooth_71: 6575428353106485028
+      idle_smooth_72: -5569845656630625086
+      idle_smooth_73: 6864623519192900072
+      idle_smooth_74: 1243857799263027397
+      idle_smooth_75: -748701395259213969
+      idle_smooth_76: 4536885702414467509
+      idle_smooth_77: -5232581402075716207
+      idle_smooth_78: 4287695518633708878
+      idle_smooth_79: -4718249121332286760
+      idle_smooth_8: -1469080082483955266
+      idle_smooth_80: 1337695002019385622
+      idle_smooth_81: 5436973268620153719
+      idle_smooth_82: 3204132982594103381
+      idle_smooth_83: -3234925324782289206
+      idle_smooth_84: -3943140424894718986
+      idle_smooth_85: -2671040715456309775
+      idle_smooth_86: -216833169304639904
+      idle_smooth_87: 4562497911810498822
+      idle_smooth_88: 5004587236023880468
+      idle_smooth_89: -598672515938959337
+      idle_smooth_9: -3841075675580378913
+      idle_smooth_90: -2704992859413706962
+      idle_smooth_91: -3240151043122546693
+      idle_smooth_92: 5479911519866931301
+      idle_smooth_93: -2176083516926026253
+      idle_smooth_94: -3712205622061385628
+      idle_smooth_95: 6908215780872078880
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5147 @@
+fileFormatVersion: 2
+guid: 785e978f65b249740bcd07bfe0b0b48c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3995153285137451113
+    second: run_smooth_0
+  - first:
+      213: 2642822674286842401
+    second: run_smooth_1
+  - first:
+      213: 8396830898128184985
+    second: run_smooth_2
+  - first:
+      213: -7199249088729007218
+    second: run_smooth_3
+  - first:
+      213: 8203650058900487930
+    second: run_smooth_4
+  - first:
+      213: -9109789588228674083
+    second: run_smooth_5
+  - first:
+      213: 2047519361079034869
+    second: run_smooth_6
+  - first:
+      213: 8769487754620784874
+    second: run_smooth_7
+  - first:
+      213: 8189073641103972422
+    second: run_smooth_8
+  - first:
+      213: -1343276294780055201
+    second: run_smooth_9
+  - first:
+      213: 761278781607925033
+    second: run_smooth_10
+  - first:
+      213: 7423833228638456586
+    second: run_smooth_11
+  - first:
+      213: -5504378444973642849
+    second: run_smooth_12
+  - first:
+      213: -4824926112220054272
+    second: run_smooth_13
+  - first:
+      213: -1805486372935964016
+    second: run_smooth_14
+  - first:
+      213: -3582373889809792300
+    second: run_smooth_15
+  - first:
+      213: 6891323918759386097
+    second: run_smooth_16
+  - first:
+      213: -6767463987051886589
+    second: run_smooth_17
+  - first:
+      213: -3626062236276867351
+    second: run_smooth_18
+  - first:
+      213: 7098303061013695602
+    second: run_smooth_19
+  - first:
+      213: 5554345313579363396
+    second: run_smooth_20
+  - first:
+      213: 5354812070087376179
+    second: run_smooth_21
+  - first:
+      213: -9191612504756087230
+    second: run_smooth_22
+  - first:
+      213: -4205594798960759874
+    second: run_smooth_23
+  - first:
+      213: -3961906014267427467
+    second: run_smooth_24
+  - first:
+      213: -953192130035198981
+    second: run_smooth_25
+  - first:
+      213: 6377523977903149561
+    second: run_smooth_26
+  - first:
+      213: 7850283620485514370
+    second: run_smooth_27
+  - first:
+      213: -640238147637420856
+    second: run_smooth_28
+  - first:
+      213: -2403530529462006738
+    second: run_smooth_29
+  - first:
+      213: -8605716872245505167
+    second: run_smooth_30
+  - first:
+      213: 6283134029245455841
+    second: run_smooth_31
+  - first:
+      213: -4539045161988416811
+    second: run_smooth_32
+  - first:
+      213: 1441500433779843683
+    second: run_smooth_33
+  - first:
+      213: -3669068741102614592
+    second: run_smooth_34
+  - first:
+      213: -5518602954849666087
+    second: run_smooth_35
+  - first:
+      213: 3496816435072578486
+    second: run_smooth_36
+  - first:
+      213: 6603174034513186440
+    second: run_smooth_37
+  - first:
+      213: 2932182798101306528
+    second: run_smooth_38
+  - first:
+      213: -1584106599171993750
+    second: run_smooth_39
+  - first:
+      213: -1763503429437374655
+    second: run_smooth_40
+  - first:
+      213: -8371994948664843317
+    second: run_smooth_41
+  - first:
+      213: 5486267415303895594
+    second: run_smooth_42
+  - first:
+      213: 1012006738837080537
+    second: run_smooth_43
+  - first:
+      213: 8489925800655806270
+    second: run_smooth_44
+  - first:
+      213: -2012239330066073975
+    second: run_smooth_45
+  - first:
+      213: -1964561012943468472
+    second: run_smooth_46
+  - first:
+      213: 9032137611347490092
+    second: run_smooth_47
+  - first:
+      213: -5621782456231746146
+    second: run_smooth_48
+  - first:
+      213: 8700260720599717019
+    second: run_smooth_49
+  - first:
+      213: -4507027522358487748
+    second: run_smooth_50
+  - first:
+      213: -5463513780427206044
+    second: run_smooth_51
+  - first:
+      213: 7852308360689551458
+    second: run_smooth_52
+  - first:
+      213: -1296906066149434973
+    second: run_smooth_53
+  - first:
+      213: 1901478021358162885
+    second: run_smooth_54
+  - first:
+      213: -3013360123258987666
+    second: run_smooth_55
+  - first:
+      213: -1170551838889945561
+    second: run_smooth_56
+  - first:
+      213: 350423676182248236
+    second: run_smooth_57
+  - first:
+      213: -2399735472585317775
+    second: run_smooth_58
+  - first:
+      213: 3392733327659955533
+    second: run_smooth_59
+  - first:
+      213: -8693901820218034858
+    second: run_smooth_60
+  - first:
+      213: 1766000616023946405
+    second: run_smooth_61
+  - first:
+      213: -6697628229707282253
+    second: run_smooth_62
+  - first:
+      213: 8848513419489821720
+    second: run_smooth_63
+  - first:
+      213: 4747865899900663149
+    second: run_smooth_64
+  - first:
+      213: -7466549252560115850
+    second: run_smooth_65
+  - first:
+      213: -8053146337305745354
+    second: run_smooth_66
+  - first:
+      213: 4834934940134450444
+    second: run_smooth_67
+  - first:
+      213: -8946903142551544369
+    second: run_smooth_68
+  - first:
+      213: 5140093639148772092
+    second: run_smooth_69
+  - first:
+      213: 64824974310163132
+    second: run_smooth_70
+  - first:
+      213: -8900442534946364130
+    second: run_smooth_71
+  - first:
+      213: -7249068917727211781
+    second: run_smooth_72
+  - first:
+      213: -2377207691381779123
+    second: run_smooth_73
+  - first:
+      213: -4695883659123146033
+    second: run_smooth_74
+  - first:
+      213: 5104984578356154983
+    second: run_smooth_75
+  - first:
+      213: -2703310799243522471
+    second: run_smooth_76
+  - first:
+      213: 7030796049286143927
+    second: run_smooth_77
+  - first:
+      213: 3480383357759276134
+    second: run_smooth_78
+  - first:
+      213: 4652071587012373723
+    second: run_smooth_79
+  - first:
+      213: -3110764899408163752
+    second: run_smooth_80
+  - first:
+      213: 754203807922492712
+    second: run_smooth_81
+  - first:
+      213: 3339646516465085404
+    second: run_smooth_82
+  - first:
+      213: 227843706354190894
+    second: run_smooth_83
+  - first:
+      213: 6441901781705184095
+    second: run_smooth_84
+  - first:
+      213: 4278481521099322243
+    second: run_smooth_85
+  - first:
+      213: -3364176443380184420
+    second: run_smooth_86
+  - first:
+      213: -1597351856221279285
+    second: run_smooth_87
+  - first:
+      213: -8825486788979268119
+    second: run_smooth_88
+  - first:
+      213: 9128078277348456369
+    second: run_smooth_89
+  - first:
+      213: 8848815551487446940
+    second: run_smooth_90
+  - first:
+      213: -4050620331000774268
+    second: run_smooth_91
+  - first:
+      213: -4096782163728038281
+    second: run_smooth_92
+  - first:
+      213: 7765900004217627442
+    second: run_smooth_93
+  - first:
+      213: 6644880982398466446
+    second: run_smooth_94
+  - first:
+      213: -7240848189731893938
+    second: run_smooth_95
+  - first:
+      213: 7656136052553783040
+    second: run_smooth_96
+  - first:
+      213: -2862652428916002336
+    second: run_smooth_97
+  - first:
+      213: 3741639727291955440
+    second: run_smooth_98
+  - first:
+      213: 6099986090186694766
+    second: run_smooth_99
+  - first:
+      213: -1176795483738984870
+    second: run_smooth_100
+  - first:
+      213: -3056153164658889999
+    second: run_smooth_101
+  - first:
+      213: 2490111167017214971
+    second: run_smooth_102
+  - first:
+      213: -706435504550053774
+    second: run_smooth_103
+  - first:
+      213: 3778499508007023997
+    second: run_smooth_104
+  - first:
+      213: -6527219253734526359
+    second: run_smooth_105
+  - first:
+      213: -2713293156146732610
+    second: run_smooth_106
+  - first:
+      213: 1848984617653625558
+    second: run_smooth_107
+  - first:
+      213: 3983193998591623612
+    second: run_smooth_108
+  - first:
+      213: -4121073399633831493
+    second: run_smooth_109
+  - first:
+      213: 6489132336723016414
+    second: run_smooth_110
+  - first:
+      213: 6944948966145772237
+    second: run_smooth_111
+  - first:
+      213: -1000360938649440462
+    second: run_smooth_112
+  - first:
+      213: -5051808266510553135
+    second: run_smooth_113
+  - first:
+      213: -1522408152711170579
+    second: run_smooth_114
+  - first:
+      213: 1062421766492305934
+    second: run_smooth_115
+  - first:
+      213: -8681323590474308151
+    second: run_smooth_116
+  - first:
+      213: 1213081673077903575
+    second: run_smooth_117
+  - first:
+      213: -8356976476372379662
+    second: run_smooth_118
+  - first:
+      213: -4096481498751887626
+    second: run_smooth_119
+  - first:
+      213: 2617603245620501576
+    second: run_smooth_120
+  - first:
+      213: 2265364975573214063
+    second: run_smooth_121
+  - first:
+      213: 2895072021033158097
+    second: run_smooth_122
+  - first:
+      213: -3365973090632621955
+    second: run_smooth_123
+  - first:
+      213: 6641598725227832151
+    second: run_smooth_124
+  - first:
+      213: -5548684995419697673
+    second: run_smooth_125
+  - first:
+      213: -8537995725793164452
+    second: run_smooth_126
+  - first:
+      213: 4256479768680677620
+    second: run_smooth_127
+  - first:
+      213: -3767860922870671941
+    second: run_smooth_128
+  - first:
+      213: -4305363726473033667
+    second: run_smooth_129
+  - first:
+      213: -6237300846585892384
+    second: run_smooth_130
+  - first:
+      213: -1263263551694703676
+    second: run_smooth_131
+  - first:
+      213: 7721669802407560551
+    second: run_smooth_132
+  - first:
+      213: -3002324306799643321
+    second: run_smooth_133
+  - first:
+      213: 4079644283215537993
+    second: run_smooth_134
+  - first:
+      213: -3071147329721753647
+    second: run_smooth_135
+  - first:
+      213: -642527102829534716
+    second: run_smooth_136
+  - first:
+      213: -5540357024890753498
+    second: run_smooth_137
+  - first:
+      213: -3828669476832845457
+    second: run_smooth_138
+  - first:
+      213: 2236985172049729671
+    second: run_smooth_139
+  - first:
+      213: -9175269594132689380
+    second: run_smooth_140
+  - first:
+      213: 1299346817842374071
+    second: run_smooth_141
+  - first:
+      213: -7484896913078469392
+    second: run_smooth_142
+  - first:
+      213: 7276384909819461025
+    second: run_smooth_143
+  - first:
+      213: 8468638204361554699
+    second: run_smooth_144
+  - first:
+      213: 2091305866006377686
+    second: run_smooth_145
+  - first:
+      213: 1458841825221186195
+    second: run_smooth_146
+  - first:
+      213: -5265259433791437065
+    second: run_smooth_147
+  - first:
+      213: 8366936764710678327
+    second: run_smooth_148
+  - first:
+      213: 5121019185073237399
+    second: run_smooth_149
+  - first:
+      213: 8317217892328143503
+    second: run_smooth_150
+  - first:
+      213: 2600582059941546294
+    second: run_smooth_151
+  - first:
+      213: -6525590583242722789
+    second: run_smooth_152
+  - first:
+      213: 7050814425084763595
+    second: run_smooth_153
+  - first:
+      213: 6339462475122252494
+    second: run_smooth_154
+  - first:
+      213: 8226632903938088887
+    second: run_smooth_155
+  - first:
+      213: -7261537315680314266
+    second: run_smooth_156
+  - first:
+      213: 1891772398800616029
+    second: run_smooth_157
+  - first:
+      213: -7317768905947533552
+    second: run_smooth_158
+  - first:
+      213: 8896762722982101363
+    second: run_smooth_159
+  - first:
+      213: 2940144599916332290
+    second: run_smooth_160
+  - first:
+      213: -1457702853987477417
+    second: run_smooth_161
+  - first:
+      213: 4188448138563900984
+    second: run_smooth_162
+  - first:
+      213: -6802576614375911359
+    second: run_smooth_163
+  - first:
+      213: 6598109062076432551
+    second: run_smooth_164
+  - first:
+      213: -780536039951660072
+    second: run_smooth_165
+  - first:
+      213: 330255549413114658
+    second: run_smooth_166
+  - first:
+      213: 296681847904110545
+    second: run_smooth_167
+  - first:
+      213: 6767513492924163624
+    second: run_smooth_168
+  - first:
+      213: -6234814203022320308
+    second: run_smooth_169
+  - first:
+      213: 8681300559664674510
+    second: run_smooth_170
+  - first:
+      213: 1443844475267695380
+    second: run_smooth_171
+  - first:
+      213: 6632598029267102094
+    second: run_smooth_172
+  - first:
+      213: 5159118944140325165
+    second: run_smooth_173
+  - first:
+      213: -5130337958329752563
+    second: run_smooth_174
+  - first:
+      213: 1129989176380430416
+    second: run_smooth_175
+  - first:
+      213: -64997772239579131
+    second: run_smooth_176
+  - first:
+      213: -5857609566373645695
+    second: run_smooth_177
+  - first:
+      213: -1601534051147111740
+    second: run_smooth_178
+  - first:
+      213: 4377183856015024460
+    second: run_smooth_179
+  - first:
+      213: -1550438576715890826
+    second: run_smooth_180
+  - first:
+      213: -461098466600651536
+    second: run_smooth_181
+  - first:
+      213: -75915114932937471
+    second: run_smooth_182
+  - first:
+      213: 7825407016603785479
+    second: run_smooth_183
+  - first:
+      213: -1080171225128390471
+    second: run_smooth_184
+  - first:
+      213: -8523886086788447168
+    second: run_smooth_185
+  - first:
+      213: 7179139627750437975
+    second: run_smooth_186
+  - first:
+      213: 6354551595842523105
+    second: run_smooth_187
+  - first:
+      213: -4152119161222751513
+    second: run_smooth_188
+  - first:
+      213: 5997000057676862234
+    second: run_smooth_189
+  - first:
+      213: 7929311469705517627
+    second: run_smooth_190
+  - first:
+      213: 174681008278958517
+    second: run_smooth_191
+  - first:
+      213: -2950416383091636605
+    second: run_smooth_192
+  - first:
+      213: 4025569267972818697
+    second: run_smooth_193
+  - first:
+      213: 4229032952980017989
+    second: run_smooth_194
+  - first:
+      213: 7023551171029854101
+    second: run_smooth_195
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: run_smooth_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1540
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9684adfdeb2a17730800000000000000
+      internalID: 3995153285137451113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1540
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122173158313da420800000000000000
+      internalID: 2642822674286842401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_2
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1540
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99664f9a639878470800000000000000
+      internalID: 8396830898128184985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_3
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1540
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bb0c8d811271c90800000000000000
+      internalID: -7199249088729007218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_4
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1540
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe3066834839d170800000000000000
+      internalID: 8203650058900487930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_5
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1540
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddde31f92a6839180800000000000000
+      internalID: -9109789588228674083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_6
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1540
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3c9dbb2004a6c10800000000000000
+      internalID: 2047519361079034869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_7
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1540
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae05f4c66aa73b970800000000000000
+      internalID: 8769487754620784874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_8
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1540
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6485489c61f65a170800000000000000
+      internalID: 8189073641103972422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_9
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1540
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f519e6ea359bb5de0800000000000000
+      internalID: -1343276294780055201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_10
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1540
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92558c8b40b909a00800000000000000
+      internalID: 761278781607925033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_11
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 1540
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b8cb00df0c60760800000000000000
+      internalID: 7423833228638456586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_12
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 1540
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b670eb7f48c93b0800000000000000
+      internalID: -5504378444973642849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_13
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 1540
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dfd95b34b6a0db0800000000000000
+      internalID: -4824926112220054272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_14
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 1540
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ae75ea5bf91f6e0800000000000000
+      internalID: -1805486372935964016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_15
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 1540
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2c04d6de9d84ec0800000000000000
+      internalID: -3582373889809792300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_16
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 1540
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb5ec1a796e2af50800000000000000
+      internalID: 6891323918759386097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_17
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 1540
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308068dfb532512a0800000000000000
+      internalID: -6767463987051886589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_18
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 1540
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee32499b93adadc0800000000000000
+      internalID: -3626062236276867351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_19
+      rect:
+        serializedVersion: 2
+        x: 4636
+        y: 1540
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c0acb860d328260800000000000000
+      internalID: 7098303061013695602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_20
+      rect:
+        serializedVersion: 2
+        x: 4880
+        y: 1540
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ce0cf62aff41d40800000000000000
+      internalID: 5554345313579363396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_21
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 1540
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d388ce43d105a40800000000000000
+      internalID: 5354812070087376179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_22
+      rect:
+        serializedVersion: 2
+        x: 5368
+        y: 1540
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24699fc4025d07080800000000000000
+      internalID: -9191612504756087230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_23
+      rect:
+        serializedVersion: 2
+        x: 5612
+        y: 1540
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebba6b200d9b2a5c0800000000000000
+      internalID: -4205594798960759874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5753b1a987b7409c0800000000000000
+      internalID: -3961906014267427467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_25
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1320
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3dd86dec495c2f0800000000000000
+      internalID: -953192130035198981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_26
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1320
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f11471b444818850800000000000000
+      internalID: 6377523977903149561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_27
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1320
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2844b193c5fc1fc60800000000000000
+      internalID: 7850283620485514370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_28
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1320
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccda6efbca6d17f0800000000000000
+      internalID: -640238147637420856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_29
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1320
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c4c98c7b1f4aed0800000000000000
+      internalID: -2403530529462006738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_30
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1320
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1739838891a529880800000000000000
+      internalID: -8605716872245505167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_31
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1320
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed18513c1d223750800000000000000
+      internalID: 6283134029245455841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_32
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1320
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da993c59721201c0800000000000000
+      internalID: -4539045161988416811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_33
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1320
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362e403d10d310410800000000000000
+      internalID: 1441500433779843683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_34
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1320
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7c6166b69d41dc0800000000000000
+      internalID: -3669068741102614592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_35
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 1320
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbb3c3f9dbf963b0800000000000000
+      internalID: -5518602954849666087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_36
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 1320
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3bf315500378030800000000000000
+      internalID: 3496816435072578486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_37
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 1320
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ecd3d9ccf23ab50800000000000000
+      internalID: 6603174034513186440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_38
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 1320
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acd65138b431b820800000000000000
+      internalID: 2932182798101306528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_39
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 1320
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f4006e07f140ae0800000000000000
+      internalID: -1584106599171993750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_40
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 1320
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fb33079f6c687e0800000000000000
+      internalID: -1763503429437374655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_41
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 1320
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3a77f63f2b0db80800000000000000
+      internalID: -8371994948664843317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_42
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 1320
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a3dff8523232c40800000000000000
+      internalID: 5486267415303895594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_43
+      rect:
+        serializedVersion: 2
+        x: 4636
+        y: 1320
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d98fa264ce5b0e00800000000000000
+      internalID: 1012006738837080537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_44
+      rect:
+        serializedVersion: 2
+        x: 4880
+        y: 1320
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f538db88642d570800000000000000
+      internalID: 8489925800655806270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_45
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 1320
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98677589df61314e0800000000000000
+      internalID: -2012239330066073975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_46
+      rect:
+        serializedVersion: 2
+        x: 5368
+        y: 1320
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8484cebda2a7cb4e0800000000000000
+      internalID: -1964561012943468472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_47
+      rect:
+        serializedVersion: 2
+        x: 5612
+        y: 1320
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25ffce9d49985d70800000000000000
+      internalID: 9032137611347490092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95a8cb34aa6bf1b0800000000000000
+      internalID: -5621782456231746146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_49
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1100
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9451a887098db870800000000000000
+      internalID: 8700260720599717019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_50
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1100
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35d9e00952d371c0800000000000000
+      internalID: -4507027522358487748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_51
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1100
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4625f24e923bd24b0800000000000000
+      internalID: -5463513780427206044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_52
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1100
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2680bb9c9d009fc60800000000000000
+      internalID: 7852308360689551458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_53
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1100
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a91d1cddc6700ee0800000000000000
+      internalID: -1296906066149434973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_54
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1100
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3144b9f28636a10800000000000000
+      internalID: 1901478021358162885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_55
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1100
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b12d0fee46e26d0800000000000000
+      internalID: -3013360123258987666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_56
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1100
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726d8cbed4d51cfe0800000000000000
+      internalID: -1170551838889945561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_57
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1100
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bbab31a74fcd400800000000000000
+      internalID: 350423676182248236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_58
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1100
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172e5a15d4d62bed0800000000000000
+      internalID: -2399735472585317775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_59
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 1100
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45fccc6cf8651f20800000000000000
+      internalID: 3392733327659955533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_60
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 1100
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65538c55b5e095780800000000000000
+      internalID: -8693901820218034858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_61
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 1100
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a47a3f1438128810800000000000000
+      internalID: 1766000616023946405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_62
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 1100
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b84ba25c9e3d03a0800000000000000
+      internalID: -6697628229707282253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_63
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 1100
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814c7f6d21c3cca70800000000000000
+      internalID: 8848513419489821720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_64
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 1100
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65f4c471eec3e140800000000000000
+      internalID: 4747865899900663149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_65
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 1100
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6772237a30d716890800000000000000
+      internalID: -7466549252560115850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_66
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 1100
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63827a8d21a7d3090800000000000000
+      internalID: -8053146337305745354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_67
+      rect:
+        serializedVersion: 2
+        x: 4636
+        y: 1100
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05a6d226b3291340800000000000000
+      internalID: 4834934940134450444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_68
+      rect:
+        serializedVersion: 2
+        x: 4880
+        y: 1100
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd936c9ef636d380800000000000000
+      internalID: -8946903142551544369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_69
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 1100
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa15b17ee7455740800000000000000
+      internalID: 5140093639148772092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_70
+      rect:
+        serializedVersion: 2
+        x: 5368
+        y: 1100
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2c45e78fd46e000800000000000000
+      internalID: 64824974310163132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_71
+      rect:
+        serializedVersion: 2
+        x: 5612
+        y: 1100
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15aeb8cba64b7480800000000000000
+      internalID: -8900442534946364130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe4b8ef932266b90800000000000000
+      internalID: -7249068917727211781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_73
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 880
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45dcdd1336720fd0800000000000000
+      internalID: -2377207691381779123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_74
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 880
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2476f11bed4deb0800000000000000
+      internalID: -4695883659123146033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_75
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 880
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76214c83d6c88d640800000000000000
+      internalID: 5104984578356154983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_76
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 880
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ecc9d9629eb7ad0800000000000000
+      internalID: -2703310799243522471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_77
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 880
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf9bed81c7629160800000000000000
+      internalID: 7030796049286143927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_78
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 880
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6644c69593ecc4030800000000000000
+      internalID: 3480383357759276134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_79
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 880
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc6f8de57a7f8040800000000000000
+      internalID: 4652071587012373723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_80
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 880
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cc5073ec754d4d0800000000000000
+      internalID: -3110764899408163752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_81
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 880
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825977b0e58777a00800000000000000
+      internalID: 754203807922492712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_82
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 880
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdba54100dec85e20800000000000000
+      internalID: 3339646516465085404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_83
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 880
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2acc8dc4a6792300800000000000000
+      internalID: 227843706354190894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_84
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 880
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f535e703a8b366950800000000000000
+      internalID: 6441901781705184095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_85
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 880
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383b23b6648306b30800000000000000
+      internalID: 4278481521099322243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_86
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 880
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a4692595b0051d0800000000000000
+      internalID: -3364176443380184420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_87
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 880
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbae9c23f015d9e0800000000000000
+      internalID: -1597351856221279285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_88
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 880
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5ecfc5682958580800000000000000
+      internalID: -8825486788979268119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_89
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 880
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b77053a4d27dae70800000000000000
+      internalID: 9128078277348456369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_90
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 880
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f8c5d6cde4dca70800000000000000
+      internalID: 8848815551487446940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_91
+      rect:
+        serializedVersion: 2
+        x: 4636
+        y: 880
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48149b2254e49c7c0800000000000000
+      internalID: -4050620331000774268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_92
+      rect:
+        serializedVersion: 2
+        x: 4880
+        y: 880
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77685d8e35e4527c0800000000000000
+      internalID: -4096782163728038281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_93
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 880
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233a89888e406cb60800000000000000
+      internalID: 7765900004217627442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_94
+      rect:
+        serializedVersion: 2
+        x: 5368
+        y: 880
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89fb922c0c573c50800000000000000
+      internalID: 6644880982398466446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_95
+      rect:
+        serializedVersion: 2
+        x: 5612
+        y: 880
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d00826fe6538b90800000000000000
+      internalID: -7240848189731893938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00797840d2f004a60800000000000000
+      internalID: 7656136052553783040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_97
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 660
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e17d0b68c0d548d0800000000000000
+      internalID: -2862652428916002336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_98
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 660
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8f9b60289fce330800000000000000
+      internalID: 3741639727291955440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_99
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 660
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60e668a70187a450800000000000000
+      internalID: 6099986090186694766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_100
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 660
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e24721ebe2bafe0800000000000000
+      internalID: -1176795483738984870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_101
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 660
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa225193ec5695d0800000000000000
+      internalID: -3056153164658889999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_102
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 660
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf36b49c9e6ae8220800000000000000
+      internalID: 2490111167017214971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_103
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 660
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278f196c6ac3236f0800000000000000
+      internalID: -706435504550053774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_104
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 660
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d753fbe784def6430800000000000000
+      internalID: 3778499508007023997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_105
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 660
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9623012eba8aa65a0800000000000000
+      internalID: -6527219253734526359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_106
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 660
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb120680042785ad0800000000000000
+      internalID: -2713293156146732610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_107
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 660
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2e762a6b9e8a910800000000000000
+      internalID: 1848984617653625558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_108
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 660
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1858d76d5274730800000000000000
+      internalID: 3983193998591623612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_109
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 660
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb99381d3910fc6c0800000000000000
+      internalID: -4121073399633831493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_110
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 660
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda30e6ba770e0a50800000000000000
+      internalID: 6489132336723016414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_111
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 660
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcac55ee94a616060800000000000000
+      internalID: 6944948966145772237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_112
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 660
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23faf94c6010e12f0800000000000000
+      internalID: -1000360938649440462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_113
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 660
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfa141b52f54e9b0800000000000000
+      internalID: -5051808266510553135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_114
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 660
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5fd76e9d15fdae0800000000000000
+      internalID: -1522408152711170579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_115
+      rect:
+        serializedVersion: 2
+        x: 4636
+        y: 660
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0aba69b7fa7ebe00800000000000000
+      internalID: 1062421766492305934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_116
+      rect:
+        serializedVersion: 2
+        x: 4880
+        y: 660
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c56f89a03eb58780800000000000000
+      internalID: -8681323590474308151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_117
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 660
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0585fba5bb5d010800000000000000
+      internalID: 1213081673077903575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_118
+      rect:
+        serializedVersion: 2
+        x: 5368
+        y: 660
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f757810c2e060c80800000000000000
+      internalID: -8356976476372379662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_119
+      rect:
+        serializedVersion: 2
+        x: 5612
+        y: 660
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f61fede7cf5627c0800000000000000
+      internalID: -4096481498751887626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c9e128848935420800000000000000
+      internalID: 2617603245620501576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_121
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 440
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6327af5171307f10800000000000000
+      internalID: 2265364975573214063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_122
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 440
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d58ad41aac5d2820800000000000000
+      internalID: 2895072021033158097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_123
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 440
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70a159ce49a941d0800000000000000
+      internalID: -3365973090632621955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_124
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 440
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75364e51ad2bb2c50800000000000000
+      internalID: 6641598725227832151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_125
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 440
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd0875156c1ff2b0800000000000000
+      internalID: -5548684995419697673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_126
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 440
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c538b46af12f28980800000000000000
+      internalID: -8537995725793164452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_127
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 440
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f049dd3ccd021b30800000000000000
+      internalID: 4256479768680677620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_128
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 440
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5d731247ed5bbc0800000000000000
+      internalID: -3767860922870671941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_129
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 440
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3809b660864044c0800000000000000
+      internalID: -4305363726473033667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_130
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 440
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1310a3de7a079a0800000000000000
+      internalID: -6237300846585892384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_131
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 440
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3f9872e7cf77ee0800000000000000
+      internalID: -1263263551694703676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_132
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 440
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7650d5d26c1e82b60800000000000000
+      internalID: 7721669802407560551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_133
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 440
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745bfa033f99556d0800000000000000
+      internalID: -3002324306799643321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_134
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 440
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947e3075cdecd9830800000000000000
+      internalID: 4079644283215537993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_135
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 440
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df9b0776c71165d0800000000000000
+      internalID: -3071147329721753647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_136
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 440
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402e84511094517f0800000000000000
+      internalID: -642527102829534716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_137
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 440
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62eeb82d3a2bc13b0800000000000000
+      internalID: -5540357024890753498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_138
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 440
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f616ffe5565dddac0800000000000000
+      internalID: -3828669476832845457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_139
+      rect:
+        serializedVersion: 2
+        x: 4636
+        y: 440
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78817d3792e5b0f10800000000000000
+      internalID: 2236985172049729671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_140
+      rect:
+        serializedVersion: 2
+        x: 4880
+        y: 440
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e4743bae4eaa080800000000000000
+      internalID: -9175269594132689380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_141
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 440
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5678deb05380210800000000000000
+      internalID: 1299346817842374071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_142
+      rect:
+        serializedVersion: 2
+        x: 5368
+        y: 440
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc3a8b0aed402890800000000000000
+      internalID: -7484896913078469392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_143
+      rect:
+        serializedVersion: 2
+        x: 5612
+        y: 440
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad3dc60689eaf460800000000000000
+      internalID: 7276384909819461025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bb54ef395a68570800000000000000
+      internalID: 8468638204361554699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_145
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 220
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4300cda9fc50d10800000000000000
+      internalID: 2091305866006377686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_146
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 220
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3929ac729e8de3410800000000000000
+      internalID: 1458841825221186195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_147
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 220
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f64696017a0ee6b0800000000000000
+      internalID: -5265259433791437065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_148
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 220
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f6cb658a45d1470800000000000000
+      internalID: 8366936764710678327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_149
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 220
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d204601d3811740800000000000000
+      internalID: 5121019185073237399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_150
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 220
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8afdb74b91bc6370800000000000000
+      internalID: 8317217892328143503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_151
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 220
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639c114ea9f171420800000000000000
+      internalID: 2600582059941546294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_152
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 220
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12fe2840f17075a0800000000000000
+      internalID: -6525590583242722789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_153
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 220
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd9060ec5689d160800000000000000
+      internalID: 7050814425084763595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_154
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 220
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca9490888b4af750800000000000000
+      internalID: 6339462475122252494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_155
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 220
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf15c02a0fda2270800000000000000
+      internalID: 8226632903938088887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_156
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 220
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c91afd846d93b90800000000000000
+      internalID: -7261537315680314266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_157
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 220
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a366249fce04a10800000000000000
+      internalID: 1891772398800616029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_158
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 220
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f299483ff027a90800000000000000
+      internalID: -7317768905947533552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_159
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 220
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371094a3f86a77b70800000000000000
+      internalID: 8896762722982101363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_160
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 220
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205cb42afed7dc820800000000000000
+      internalID: 2940144599916332290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_161
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 220
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758d0004af235cbe0800000000000000
+      internalID: -1457702853987477417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_162
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 220
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8365f33046b502a30800000000000000
+      internalID: 4188448138563900984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_163
+      rect:
+        serializedVersion: 2
+        x: 4636
+        y: 220
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1409ebe5c946891a0800000000000000
+      internalID: -6802576614375911359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_164
+      rect:
+        serializedVersion: 2
+        x: 4880
+        y: 220
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a00a52db31319b50800000000000000
+      internalID: 6598109062076432551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_165
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 220
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db8a4c6b9afa25f0800000000000000
+      internalID: -780536039951660072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_166
+      rect:
+        serializedVersion: 2
+        x: 5368
+        y: 220
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223ced32cad459400800000000000000
+      internalID: 330255549413114658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_167
+      rect:
+        serializedVersion: 2
+        x: 5612
+        y: 220
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d781ab91960e1400800000000000000
+      internalID: 296681847904110545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826686e7aa90bed50800000000000000
+      internalID: 6767513492924163624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_169
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d5b4c048d7979a0800000000000000
+      internalID: -6234814203022320308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_170
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6763f0ddc2a7870800000000000000
+      internalID: 8681300559664674510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_171
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 0
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413cd3386e0990410800000000000000
+      internalID: 1443844475267695380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_172
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 0
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89eb6044c8bb0c50800000000000000
+      internalID: 6632598029267102094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_173
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 0
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21f873785fd89740800000000000000
+      internalID: 5159118944140325165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_174
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 0
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d046d000fc06dc8b0800000000000000
+      internalID: -5130337958329752563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_175
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 0
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05811324b278eaf00800000000000000
+      internalID: 1129989176380430416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_176
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 0
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508d77aded4191ff0800000000000000
+      internalID: -64997772239579131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_177
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 0
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1827e53622795bea0800000000000000
+      internalID: -5857609566373645695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_178
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 0
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c22fa9044536c9e0800000000000000
+      internalID: -1601534051147111740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_179
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 0
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41a9569681eebc30800000000000000
+      internalID: 4377183856015024460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_180
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 0
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f79cc345cbb7ae0800000000000000
+      internalID: -1550438576715890826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_181
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 0
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f47acb3369d999f0800000000000000
+      internalID: -461098466600651536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_182
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 0
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10dd65dea9b42fef0800000000000000
+      internalID: -75915114932937471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_183
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 0
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7099487883e699c60800000000000000
+      internalID: 7825407016603785479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_184
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 0
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0bf956ef57201f0800000000000000
+      internalID: -1080171225128390471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_185
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 0
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044841bf3c215b980800000000000000
+      internalID: -8523886086788447168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_186
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 0
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754bef8647d61a360800000000000000
+      internalID: 7179139627750437975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_187
+      rect:
+        serializedVersion: 2
+        x: 4636
+        y: 0
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efc5113207ef2850800000000000000
+      internalID: 6354551595842523105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_188
+      rect:
+        serializedVersion: 2
+        x: 4880
+        y: 0
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea993a2f95b066c0800000000000000
+      internalID: -4152119161222751513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_189
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 0
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1393db67cf993350800000000000000
+      internalID: 5997000057676862234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_190
+      rect:
+        serializedVersion: 2
+        x: 5368
+        y: 0
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a5a3935c29a0e60800000000000000
+      internalID: 7929311469705517627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_smooth_191
+      rect:
+        serializedVersion: 2
+        x: 5612
+        y: 0
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1797793779c6200800000000000000
+      internalID: 174681008278958517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 14b57867cb832f749aae6757f46b2483
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      run_smooth_0: 3995153285137451113
+      run_smooth_1: 2642822674286842401
+      run_smooth_10: 761278781607925033
+      run_smooth_100: -1176795483738984870
+      run_smooth_101: -3056153164658889999
+      run_smooth_102: 2490111167017214971
+      run_smooth_103: -706435504550053774
+      run_smooth_104: 3778499508007023997
+      run_smooth_105: -6527219253734526359
+      run_smooth_106: -2713293156146732610
+      run_smooth_107: 1848984617653625558
+      run_smooth_108: 3983193998591623612
+      run_smooth_109: -4121073399633831493
+      run_smooth_11: 7423833228638456586
+      run_smooth_110: 6489132336723016414
+      run_smooth_111: 6944948966145772237
+      run_smooth_112: -1000360938649440462
+      run_smooth_113: -5051808266510553135
+      run_smooth_114: -1522408152711170579
+      run_smooth_115: 1062421766492305934
+      run_smooth_116: -8681323590474308151
+      run_smooth_117: 1213081673077903575
+      run_smooth_118: -8356976476372379662
+      run_smooth_119: -4096481498751887626
+      run_smooth_12: -5504378444973642849
+      run_smooth_120: 2617603245620501576
+      run_smooth_121: 2265364975573214063
+      run_smooth_122: 2895072021033158097
+      run_smooth_123: -3365973090632621955
+      run_smooth_124: 6641598725227832151
+      run_smooth_125: -5548684995419697673
+      run_smooth_126: -8537995725793164452
+      run_smooth_127: 4256479768680677620
+      run_smooth_128: -3767860922870671941
+      run_smooth_129: -4305363726473033667
+      run_smooth_13: -4824926112220054272
+      run_smooth_130: -6237300846585892384
+      run_smooth_131: -1263263551694703676
+      run_smooth_132: 7721669802407560551
+      run_smooth_133: -3002324306799643321
+      run_smooth_134: 4079644283215537993
+      run_smooth_135: -3071147329721753647
+      run_smooth_136: -642527102829534716
+      run_smooth_137: -5540357024890753498
+      run_smooth_138: -3828669476832845457
+      run_smooth_139: 2236985172049729671
+      run_smooth_14: -1805486372935964016
+      run_smooth_140: -9175269594132689380
+      run_smooth_141: 1299346817842374071
+      run_smooth_142: -7484896913078469392
+      run_smooth_143: 7276384909819461025
+      run_smooth_144: 8468638204361554699
+      run_smooth_145: 2091305866006377686
+      run_smooth_146: 1458841825221186195
+      run_smooth_147: -5265259433791437065
+      run_smooth_148: 8366936764710678327
+      run_smooth_149: 5121019185073237399
+      run_smooth_15: -3582373889809792300
+      run_smooth_150: 8317217892328143503
+      run_smooth_151: 2600582059941546294
+      run_smooth_152: -6525590583242722789
+      run_smooth_153: 7050814425084763595
+      run_smooth_154: 6339462475122252494
+      run_smooth_155: 8226632903938088887
+      run_smooth_156: -7261537315680314266
+      run_smooth_157: 1891772398800616029
+      run_smooth_158: -7317768905947533552
+      run_smooth_159: 8896762722982101363
+      run_smooth_16: 6891323918759386097
+      run_smooth_160: 2940144599916332290
+      run_smooth_161: -1457702853987477417
+      run_smooth_162: 4188448138563900984
+      run_smooth_163: -6802576614375911359
+      run_smooth_164: 6598109062076432551
+      run_smooth_165: -780536039951660072
+      run_smooth_166: 330255549413114658
+      run_smooth_167: 296681847904110545
+      run_smooth_168: 6767513492924163624
+      run_smooth_169: -6234814203022320308
+      run_smooth_17: -6767463987051886589
+      run_smooth_170: 8681300559664674510
+      run_smooth_171: 1443844475267695380
+      run_smooth_172: 6632598029267102094
+      run_smooth_173: 5159118944140325165
+      run_smooth_174: -5130337958329752563
+      run_smooth_175: 1129989176380430416
+      run_smooth_176: -64997772239579131
+      run_smooth_177: -5857609566373645695
+      run_smooth_178: -1601534051147111740
+      run_smooth_179: 4377183856015024460
+      run_smooth_18: -3626062236276867351
+      run_smooth_180: -1550438576715890826
+      run_smooth_181: -461098466600651536
+      run_smooth_182: -75915114932937471
+      run_smooth_183: 7825407016603785479
+      run_smooth_184: -1080171225128390471
+      run_smooth_185: -8523886086788447168
+      run_smooth_186: 7179139627750437975
+      run_smooth_187: 6354551595842523105
+      run_smooth_188: -4152119161222751513
+      run_smooth_189: 5997000057676862234
+      run_smooth_19: 7098303061013695602
+      run_smooth_190: 7929311469705517627
+      run_smooth_191: 174681008278958517
+      run_smooth_2: 8396830898128184985
+      run_smooth_20: 5554345313579363396
+      run_smooth_21: 5354812070087376179
+      run_smooth_22: -9191612504756087230
+      run_smooth_23: -4205594798960759874
+      run_smooth_24: -3961906014267427467
+      run_smooth_25: -953192130035198981
+      run_smooth_26: 6377523977903149561
+      run_smooth_27: 7850283620485514370
+      run_smooth_28: -640238147637420856
+      run_smooth_29: -2403530529462006738
+      run_smooth_3: -7199249088729007218
+      run_smooth_30: -8605716872245505167
+      run_smooth_31: 6283134029245455841
+      run_smooth_32: -4539045161988416811
+      run_smooth_33: 1441500433779843683
+      run_smooth_34: -3669068741102614592
+      run_smooth_35: -5518602954849666087
+      run_smooth_36: 3496816435072578486
+      run_smooth_37: 6603174034513186440
+      run_smooth_38: 2932182798101306528
+      run_smooth_39: -1584106599171993750
+      run_smooth_4: 8203650058900487930
+      run_smooth_40: -1763503429437374655
+      run_smooth_41: -8371994948664843317
+      run_smooth_42: 5486267415303895594
+      run_smooth_43: 1012006738837080537
+      run_smooth_44: 8489925800655806270
+      run_smooth_45: -2012239330066073975
+      run_smooth_46: -1964561012943468472
+      run_smooth_47: 9032137611347490092
+      run_smooth_48: -5621782456231746146
+      run_smooth_49: 8700260720599717019
+      run_smooth_5: -9109789588228674083
+      run_smooth_50: -4507027522358487748
+      run_smooth_51: -5463513780427206044
+      run_smooth_52: 7852308360689551458
+      run_smooth_53: -1296906066149434973
+      run_smooth_54: 1901478021358162885
+      run_smooth_55: -3013360123258987666
+      run_smooth_56: -1170551838889945561
+      run_smooth_57: 350423676182248236
+      run_smooth_58: -2399735472585317775
+      run_smooth_59: 3392733327659955533
+      run_smooth_6: 2047519361079034869
+      run_smooth_60: -8693901820218034858
+      run_smooth_61: 1766000616023946405
+      run_smooth_62: -6697628229707282253
+      run_smooth_63: 8848513419489821720
+      run_smooth_64: 4747865899900663149
+      run_smooth_65: -7466549252560115850
+      run_smooth_66: -8053146337305745354
+      run_smooth_67: 4834934940134450444
+      run_smooth_68: -8946903142551544369
+      run_smooth_69: 5140093639148772092
+      run_smooth_7: 8769487754620784874
+      run_smooth_70: 64824974310163132
+      run_smooth_71: -8900442534946364130
+      run_smooth_72: -7249068917727211781
+      run_smooth_73: -2377207691381779123
+      run_smooth_74: -4695883659123146033
+      run_smooth_75: 5104984578356154983
+      run_smooth_76: -2703310799243522471
+      run_smooth_77: 7030796049286143927
+      run_smooth_78: 3480383357759276134
+      run_smooth_79: 4652071587012373723
+      run_smooth_8: 8189073641103972422
+      run_smooth_80: -3110764899408163752
+      run_smooth_81: 754203807922492712
+      run_smooth_82: 3339646516465085404
+      run_smooth_83: 227843706354190894
+      run_smooth_84: 6441901781705184095
+      run_smooth_85: 4278481521099322243
+      run_smooth_86: -3364176443380184420
+      run_smooth_87: -1597351856221279285
+      run_smooth_88: -8825486788979268119
+      run_smooth_89: 9128078277348456369
+      run_smooth_9: -1343276294780055201
+      run_smooth_90: 8848815551487446940
+      run_smooth_91: -4050620331000774268
+      run_smooth_92: -4096782163728038281
+      run_smooth_93: 7765900004217627442
+      run_smooth_94: 6644880982398466446
+      run_smooth_95: -7240848189731893938
+      run_smooth_96: 7656136052553783040
+      run_smooth_97: -2862652428916002336
+      run_smooth_98: 3741639727291955440
+      run_smooth_99: 6099986090186694766
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

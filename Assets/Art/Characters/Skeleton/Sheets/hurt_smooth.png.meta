@@ -1,0 +1,2639 @@
+fileFormatVersion: 2
+guid: 250d53b070642eb43bad7ccf452820da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6375355985674576029
+    second: hurt_smooth_0
+  - first:
+      213: -3446051252708769486
+    second: hurt_smooth_1
+  - first:
+      213: 8277888430320026526
+    second: hurt_smooth_2
+  - first:
+      213: 7596842224864768942
+    second: hurt_smooth_3
+  - first:
+      213: 7886860317206654792
+    second: hurt_smooth_4
+  - first:
+      213: 5214108435505044556
+    second: hurt_smooth_5
+  - first:
+      213: 5679045656305806560
+    second: hurt_smooth_6
+  - first:
+      213: -4972651402271096976
+    second: hurt_smooth_7
+  - first:
+      213: -3220175193134839408
+    second: hurt_smooth_8
+  - first:
+      213: 5552228574988022014
+    second: hurt_smooth_9
+  - first:
+      213: -7396915856885459878
+    second: hurt_smooth_10
+  - first:
+      213: 8089046713758890616
+    second: hurt_smooth_11
+  - first:
+      213: -2503740543847445535
+    second: hurt_smooth_12
+  - first:
+      213: -8694564583936809379
+    second: hurt_smooth_13
+  - first:
+      213: 5020007684097502962
+    second: hurt_smooth_14
+  - first:
+      213: 581996841661012877
+    second: hurt_smooth_15
+  - first:
+      213: -2250926316082520280
+    second: hurt_smooth_16
+  - first:
+      213: -3625408477339919891
+    second: hurt_smooth_17
+  - first:
+      213: 5963174876466424113
+    second: hurt_smooth_18
+  - first:
+      213: 5378586150827026432
+    second: hurt_smooth_19
+  - first:
+      213: -5229757067903384425
+    second: hurt_smooth_20
+  - first:
+      213: 8811345353821815636
+    second: hurt_smooth_21
+  - first:
+      213: -5255752172583452185
+    second: hurt_smooth_22
+  - first:
+      213: -850029013290718383
+    second: hurt_smooth_23
+  - first:
+      213: -7303862521011582230
+    second: hurt_smooth_24
+  - first:
+      213: 5939077137409954607
+    second: hurt_smooth_25
+  - first:
+      213: -5051997851927990875
+    second: hurt_smooth_26
+  - first:
+      213: -8046030522334000943
+    second: hurt_smooth_27
+  - first:
+      213: 2504584248085754796
+    second: hurt_smooth_28
+  - first:
+      213: 6018456850673409541
+    second: hurt_smooth_29
+  - first:
+      213: -8554403090370046951
+    second: hurt_smooth_30
+  - first:
+      213: 2952222657694584007
+    second: hurt_smooth_31
+  - first:
+      213: -8097100331396186310
+    second: hurt_smooth_32
+  - first:
+      213: 4053171092725122420
+    second: hurt_smooth_33
+  - first:
+      213: -1547394068507206145
+    second: hurt_smooth_34
+  - first:
+      213: 2702048235578476112
+    second: hurt_smooth_35
+  - first:
+      213: 493644175285289420
+    second: hurt_smooth_36
+  - first:
+      213: 7520010072238403307
+    second: hurt_smooth_37
+  - first:
+      213: 2769412538374667511
+    second: hurt_smooth_38
+  - first:
+      213: -1631323944724445642
+    second: hurt_smooth_39
+  - first:
+      213: 1502807181533743257
+    second: hurt_smooth_40
+  - first:
+      213: -2663020436292644954
+    second: hurt_smooth_41
+  - first:
+      213: 7463311422483357867
+    second: hurt_smooth_42
+  - first:
+      213: 5144818539273193034
+    second: hurt_smooth_43
+  - first:
+      213: -526018080487722564
+    second: hurt_smooth_44
+  - first:
+      213: -4183409068496284349
+    second: hurt_smooth_45
+  - first:
+      213: -3788386891459304472
+    second: hurt_smooth_46
+  - first:
+      213: 8866328139307530729
+    second: hurt_smooth_47
+  - first:
+      213: 4070719840076802133
+    second: hurt_smooth_48
+  - first:
+      213: -3706395001220834530
+    second: hurt_smooth_49
+  - first:
+      213: 151937088398928974
+    second: hurt_smooth_50
+  - first:
+      213: 1310168567798716513
+    second: hurt_smooth_51
+  - first:
+      213: -8687112564015308976
+    second: hurt_smooth_52
+  - first:
+      213: 1868162079784899395
+    second: hurt_smooth_53
+  - first:
+      213: -5828072358958378794
+    second: hurt_smooth_54
+  - first:
+      213: 1482147117117583790
+    second: hurt_smooth_55
+  - first:
+      213: 509705086006687358
+    second: hurt_smooth_56
+  - first:
+      213: 1052394013378164572
+    second: hurt_smooth_57
+  - first:
+      213: 6261393751261912703
+    second: hurt_smooth_58
+  - first:
+      213: 3574058912447241823
+    second: hurt_smooth_59
+  - first:
+      213: -616938272955944061
+    second: hurt_smooth_60
+  - first:
+      213: -5890825613270887795
+    second: hurt_smooth_61
+  - first:
+      213: -8196037256598048091
+    second: hurt_smooth_62
+  - first:
+      213: 282160099719298127
+    second: hurt_smooth_63
+  - first:
+      213: -2738129001840178759
+    second: hurt_smooth_64
+  - first:
+      213: 913450961820206112
+    second: hurt_smooth_65
+  - first:
+      213: -9195242874425898225
+    second: hurt_smooth_66
+  - first:
+      213: 2961051896185046858
+    second: hurt_smooth_67
+  - first:
+      213: -676451207405285423
+    second: hurt_smooth_68
+  - first:
+      213: -1913498434792580543
+    second: hurt_smooth_69
+  - first:
+      213: -8967819018046384299
+    second: hurt_smooth_70
+  - first:
+      213: -4941342068817917517
+    second: hurt_smooth_71
+  - first:
+      213: 205630104558868926
+    second: hurt_smooth_72
+  - first:
+      213: -8377661855235383580
+    second: hurt_smooth_73
+  - first:
+      213: 8663878307868150852
+    second: hurt_smooth_74
+  - first:
+      213: 1348212905057449940
+    second: hurt_smooth_75
+  - first:
+      213: 7849434567748703766
+    second: hurt_smooth_76
+  - first:
+      213: -7869525222564746402
+    second: hurt_smooth_77
+  - first:
+      213: -3160759806473612636
+    second: hurt_smooth_78
+  - first:
+      213: -8116354379695291793
+    second: hurt_smooth_79
+  - first:
+      213: -5508603290888031810
+    second: hurt_smooth_80
+  - first:
+      213: 2196632546339873944
+    second: hurt_smooth_81
+  - first:
+      213: 1821907943641691961
+    second: hurt_smooth_82
+  - first:
+      213: -3610547322628076064
+    second: hurt_smooth_83
+  - first:
+      213: 1092781251706821401
+    second: hurt_smooth_84
+  - first:
+      213: -6915049950835716876
+    second: hurt_smooth_85
+  - first:
+      213: 5973312829705681575
+    second: hurt_smooth_86
+  - first:
+      213: -7417010146723521734
+    second: hurt_smooth_87
+  - first:
+      213: 6481776593796263163
+    second: hurt_smooth_88
+  - first:
+      213: -5979206420111631336
+    second: hurt_smooth_89
+  - first:
+      213: 2314105722488509686
+    second: hurt_smooth_90
+  - first:
+      213: -8406880118660433145
+    second: hurt_smooth_91
+  - first:
+      213: 3679939277422231890
+    second: hurt_smooth_92
+  - first:
+      213: -6899452970675380662
+    second: hurt_smooth_93
+  - first:
+      213: -7862144863093002842
+    second: hurt_smooth_94
+  - first:
+      213: 662861935993964755
+    second: hurt_smooth_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hurt_smooth_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d902bcaad70d97850800000000000000
+      internalID: 6375355985674576029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2310184c4aa2d20d0800000000000000
+      internalID: -3446051252708769486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_2
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e938a835ba7f0e270800000000000000
+      internalID: 8277888430320026526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_3
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3b0c3f0c76d6960800000000000000
+      internalID: 7596842224864768942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_4
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f2a301ca1c37d60800000000000000
+      internalID: 7886860317206654792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_5
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c55ae1ffb3c5840800000000000000
+      internalID: 5214108435505044556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_6
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec255f7fe500de40800000000000000
+      internalID: 5679045656305806560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_7
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f78c755e79dfab0800000000000000
+      internalID: -4972651402271096976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_8
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0994caa19b3af43d0800000000000000
+      internalID: -3220175193134839408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_9
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef03fe3d87a7d0d40800000000000000
+      internalID: 5552228574988022014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_10
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5453ecf730e85990800000000000000
+      internalID: -7396915856885459878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_11
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ab329e021124070800000000000000
+      internalID: 8089046713758890616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebca32ad3de04dd0800000000000000
+      internalID: -2503740543847445535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_13
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5621c1a393b65780800000000000000
+      internalID: -8694564583936809379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_14
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2feec5c3466aaa540800000000000000
+      internalID: 5020007684097502962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_15
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b9a9f3b0ba31800800000000000000
+      internalID: 581996841661012877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_16
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f9252017a13c0e0800000000000000
+      internalID: -2250926316082520280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_17
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9d676b236ffadc0800000000000000
+      internalID: -3625408477339919891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_18
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139a055b4f371c250800000000000000
+      internalID: 5963174876466424113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_19
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00861e17b9394aa40800000000000000
+      internalID: 5378586150827026432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_20
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794c70ab7ab2c67b0800000000000000
+      internalID: -5229757067903384425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_21
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45386df2aef284a70800000000000000
+      internalID: 8811345353821815636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_22
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e10da5ce31df07b0800000000000000
+      internalID: -5255752172583452185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_23
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15be706bd171434f0800000000000000
+      internalID: -850029013290718383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeac0d21cb773aa90800000000000000
+      internalID: -7303862521011582230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_25
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23d6fc9037db6250800000000000000
+      internalID: 5939077137409954607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_26
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adabc568b2b3e9b0800000000000000
+      internalID: -5051997851927990875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_27
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8c450aed1c65090800000000000000
+      internalID: -8046030522334000943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_28
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3b0319a1212c220800000000000000
+      internalID: 2504584248085754796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_29
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e97685e9ad58350800000000000000
+      internalID: 6018456850673409541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_30
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9145df466b7a84980800000000000000
+      internalID: -8554403090370046951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_31
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccceb99dd668f820800000000000000
+      internalID: 2952222657694584007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_32
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fbe6c162251af80800000000000000
+      internalID: -8097100331396186310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_33
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47543cb52a1cf3830800000000000000
+      internalID: 4053171092725122420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_34
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdd41b0b4d868ae0800000000000000
+      internalID: -1547394068507206145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_35
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05640afdd8a9f7520800000000000000
+      internalID: 2702048235578476112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1025113c6c9d600800000000000000
+      internalID: 493644175285289420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_37
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee212761517c5860800000000000000
+      internalID: 7520010072238403307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_38
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcb55ad70eee6620800000000000000
+      internalID: 2769412538374667511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_39
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6364c11f38f5c59e0800000000000000
+      internalID: -1631323944724445642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_40
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998893d5b2b0bd410800000000000000
+      internalID: 1502807181533743257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_41
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afcb21c50d0b0bd0800000000000000
+      internalID: -2663020436292644954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_42
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba06c394232039760800000000000000
+      internalID: 7463311422483357867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_43
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46093bf331166740800000000000000
+      internalID: 5144818539273193034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_44
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1b81fb75533b8f0800000000000000
+      internalID: -526018080487722564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_45
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345912aed9b81f5c0800000000000000
+      internalID: -4183409068496284349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_46
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e362d6a132fc6bc0800000000000000
+      internalID: -3788386891459304472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_47
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9b97587768b0b70800000000000000
+      internalID: 8866328139307530729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558a9ef702a1e7830800000000000000
+      internalID: 4070719840076802133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_49
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bd2fa326d309cc0800000000000000
+      internalID: -3706395001220834530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_50
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ca9361af9cb1200800000000000000
+      internalID: 151937088398928974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_51
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168568fee57ae2210800000000000000
+      internalID: 1310168567798716513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_52
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fd80a362d217780800000000000000
+      internalID: -8687112564015308976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_53
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3431f6c738b0de910800000000000000
+      internalID: 1868162079784899395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_54
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0530761178e1fa0800000000000000
+      internalID: -5828072358958378794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_55
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1b9a443f4a19410800000000000000
+      internalID: 1482147117117583790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_56
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7673af3316d21700800000000000000
+      internalID: 509705086006687358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_57
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57372387cada9e00800000000000000
+      internalID: 1052394013378164572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_58
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e11d64170f4e650800000000000000
+      internalID: 6261393751261912703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_59
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e9cba05ab999130800000000000000
+      internalID: 3574058912447241823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3833e10d8e13077f0800000000000000
+      internalID: -616938272955944061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_61
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82573fc0559f3ea0800000000000000
+      internalID: -5890825613270887795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_62
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a23b922a83d14e80800000000000000
+      internalID: -8196037256598048091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_63
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cbe81ad1f6ae300800000000000000
+      internalID: 282160099719298127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_64
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b90f181e26300ad0800000000000000
+      internalID: -2738129001840178759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_65
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02448036fca3dac00800000000000000
+      internalID: 913450961820206112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_66
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b076ef25fe36080800000000000000
+      internalID: -9195242874425898225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_67
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a474b91e205c71920800000000000000
+      internalID: 2961051896185046858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_68
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df49baf533cc96f0800000000000000
+      internalID: -676451207405285423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_69
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a1cebcf43e175e0800000000000000
+      internalID: -1913498434792580543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_70
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5575a5bdd18eb8380800000000000000
+      internalID: -8967819018046384299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_71
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b90a6a9193dc6bb0800000000000000
+      internalID: -4941342068817917517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb99b599d7b8ad200800000000000000
+      internalID: 205630104558868926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_73
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eeda5eede09cbb80800000000000000
+      internalID: -8377661855235383580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_74
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c81b5fa674c3870800000000000000
+      internalID: 8663878307868150852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_75
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7fb877e70d5b210800000000000000
+      internalID: 1348212905057449940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_76
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616555ab62bceec60800000000000000
+      internalID: 7849434567748703766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_77
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b2d0e2184d9c290800000000000000
+      internalID: -7869525222564746402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_78
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2dec2d3b9b224d0800000000000000
+      internalID: -3160759806473612636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_79
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f628317a1baec5f80800000000000000
+      internalID: -8116354379695291793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_80
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb132162e728d83b0800000000000000
+      internalID: -5508603290888031810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_81
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89466a2a9a10c7e10800000000000000
+      internalID: 2196632546339873944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_82
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937b9323f97b84910800000000000000
+      internalID: 1821907943641691961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_83
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed040ee652c4edc0800000000000000
+      internalID: -3610547322628076064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b113532c65a2f00800000000000000
+      internalID: 1092781251706821401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_85
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcca5c05bec800a0800000000000000
+      internalID: -6915049950835716876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_86
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aaf3e2ee5875e250800000000000000
+      internalID: 5973312829705681575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_87
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b931d819c711990800000000000000
+      internalID: -7417010146723521734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_88
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfceaaa5875e3f950800000000000000
+      internalID: 6481776593796263163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_89
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cd28aa077950da0800000000000000
+      internalID: -5979206420111631336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_90
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f450a9d4ea5d1020800000000000000
+      internalID: 2314105722488509686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_91
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b73f9d213c45b80800000000000000
+      internalID: -8406880118660433145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_92
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25182c19645c11330800000000000000
+      internalID: 3679939277422231890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_93
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e516af3183040a0800000000000000
+      internalID: -6899452970675380662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_94
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adeda607ec04e290800000000000000
+      internalID: -7862144863093002842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt_smooth_95
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d84c063b65f23900800000000000000
+      internalID: 662861935993964755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 47068b7da64bce5488c72efaad27f141
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hurt_smooth_0: 6375355985674576029
+      hurt_smooth_1: -3446051252708769486
+      hurt_smooth_10: -7396915856885459878
+      hurt_smooth_11: 8089046713758890616
+      hurt_smooth_12: -2503740543847445535
+      hurt_smooth_13: -8694564583936809379
+      hurt_smooth_14: 5020007684097502962
+      hurt_smooth_15: 581996841661012877
+      hurt_smooth_16: -2250926316082520280
+      hurt_smooth_17: -3625408477339919891
+      hurt_smooth_18: 5963174876466424113
+      hurt_smooth_19: 5378586150827026432
+      hurt_smooth_2: 8277888430320026526
+      hurt_smooth_20: -5229757067903384425
+      hurt_smooth_21: 8811345353821815636
+      hurt_smooth_22: -5255752172583452185
+      hurt_smooth_23: -850029013290718383
+      hurt_smooth_24: -7303862521011582230
+      hurt_smooth_25: 5939077137409954607
+      hurt_smooth_26: -5051997851927990875
+      hurt_smooth_27: -8046030522334000943
+      hurt_smooth_28: 2504584248085754796
+      hurt_smooth_29: 6018456850673409541
+      hurt_smooth_3: 7596842224864768942
+      hurt_smooth_30: -8554403090370046951
+      hurt_smooth_31: 2952222657694584007
+      hurt_smooth_32: -8097100331396186310
+      hurt_smooth_33: 4053171092725122420
+      hurt_smooth_34: -1547394068507206145
+      hurt_smooth_35: 2702048235578476112
+      hurt_smooth_36: 493644175285289420
+      hurt_smooth_37: 7520010072238403307
+      hurt_smooth_38: 2769412538374667511
+      hurt_smooth_39: -1631323944724445642
+      hurt_smooth_4: 7886860317206654792
+      hurt_smooth_40: 1502807181533743257
+      hurt_smooth_41: -2663020436292644954
+      hurt_smooth_42: 7463311422483357867
+      hurt_smooth_43: 5144818539273193034
+      hurt_smooth_44: -526018080487722564
+      hurt_smooth_45: -4183409068496284349
+      hurt_smooth_46: -3788386891459304472
+      hurt_smooth_47: 8866328139307530729
+      hurt_smooth_48: 4070719840076802133
+      hurt_smooth_49: -3706395001220834530
+      hurt_smooth_5: 5214108435505044556
+      hurt_smooth_50: 151937088398928974
+      hurt_smooth_51: 1310168567798716513
+      hurt_smooth_52: -8687112564015308976
+      hurt_smooth_53: 1868162079784899395
+      hurt_smooth_54: -5828072358958378794
+      hurt_smooth_55: 1482147117117583790
+      hurt_smooth_56: 509705086006687358
+      hurt_smooth_57: 1052394013378164572
+      hurt_smooth_58: 6261393751261912703
+      hurt_smooth_59: 3574058912447241823
+      hurt_smooth_6: 5679045656305806560
+      hurt_smooth_60: -616938272955944061
+      hurt_smooth_61: -5890825613270887795
+      hurt_smooth_62: -8196037256598048091
+      hurt_smooth_63: 282160099719298127
+      hurt_smooth_64: -2738129001840178759
+      hurt_smooth_65: 913450961820206112
+      hurt_smooth_66: -9195242874425898225
+      hurt_smooth_67: 2961051896185046858
+      hurt_smooth_68: -676451207405285423
+      hurt_smooth_69: -1913498434792580543
+      hurt_smooth_7: -4972651402271096976
+      hurt_smooth_70: -8967819018046384299
+      hurt_smooth_71: -4941342068817917517
+      hurt_smooth_72: 205630104558868926
+      hurt_smooth_73: -8377661855235383580
+      hurt_smooth_74: 8663878307868150852
+      hurt_smooth_75: 1348212905057449940
+      hurt_smooth_76: 7849434567748703766
+      hurt_smooth_77: -7869525222564746402
+      hurt_smooth_78: -3160759806473612636
+      hurt_smooth_79: -8116354379695291793
+      hurt_smooth_8: -3220175193134839408
+      hurt_smooth_80: -5508603290888031810
+      hurt_smooth_81: 2196632546339873944
+      hurt_smooth_82: 1821907943641691961
+      hurt_smooth_83: -3610547322628076064
+      hurt_smooth_84: 1092781251706821401
+      hurt_smooth_85: -6915049950835716876
+      hurt_smooth_86: 5973312829705681575
+      hurt_smooth_87: -7417010146723521734
+      hurt_smooth_88: 6481776593796263163
+      hurt_smooth_89: -5979206420111631336
+      hurt_smooth_9: 5552228574988022014
+      hurt_smooth_90: 2314105722488509686
+      hurt_smooth_91: -8406880118660433145
+      hurt_smooth_92: 3679939277422231890
+      hurt_smooth_93: -6899452970675380662
+      hurt_smooth_94: -7862144863093002842
+      hurt_smooth_95: 662861935993964755
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

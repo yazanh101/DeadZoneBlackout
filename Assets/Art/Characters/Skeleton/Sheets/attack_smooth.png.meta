@@ -1,0 +1,2639 @@
+fileFormatVersion: 2
+guid: 269c40d75f91f3340956639d9c55b17d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2942133333208607543
+    second: attack_smooth_0
+  - first:
+      213: 3489125040610491294
+    second: attack_smooth_1
+  - first:
+      213: 4439659465462503400
+    second: attack_smooth_2
+  - first:
+      213: -8368423945084592765
+    second: attack_smooth_3
+  - first:
+      213: 4898537028072992895
+    second: attack_smooth_4
+  - first:
+      213: -7334703683858803258
+    second: attack_smooth_5
+  - first:
+      213: 955974280343150786
+    second: attack_smooth_6
+  - first:
+      213: 8649636207085891854
+    second: attack_smooth_7
+  - first:
+      213: -1144209916419154607
+    second: attack_smooth_8
+  - first:
+      213: 401920507871244646
+    second: attack_smooth_9
+  - first:
+      213: -4014945666298370234
+    second: attack_smooth_10
+  - first:
+      213: 6847900362733291680
+    second: attack_smooth_11
+  - first:
+      213: 7033625992283505076
+    second: attack_smooth_12
+  - first:
+      213: -7879474206762131768
+    second: attack_smooth_13
+  - first:
+      213: -1767083671929643961
+    second: attack_smooth_14
+  - first:
+      213: -1482853545801515342
+    second: attack_smooth_15
+  - first:
+      213: -973780350732607211
+    second: attack_smooth_16
+  - first:
+      213: -8804998973593149654
+    second: attack_smooth_17
+  - first:
+      213: -8769078921175255055
+    second: attack_smooth_18
+  - first:
+      213: 5285613024061385890
+    second: attack_smooth_19
+  - first:
+      213: 2454421255388810125
+    second: attack_smooth_20
+  - first:
+      213: 3666497997363194720
+    second: attack_smooth_21
+  - first:
+      213: -7156390565322844961
+    second: attack_smooth_22
+  - first:
+      213: 70541764306338667
+    second: attack_smooth_23
+  - first:
+      213: 2592499170647030487
+    second: attack_smooth_24
+  - first:
+      213: 497437342238376397
+    second: attack_smooth_25
+  - first:
+      213: -7490071497143442709
+    second: attack_smooth_26
+  - first:
+      213: 4210766410579117904
+    second: attack_smooth_27
+  - first:
+      213: 7352647154610983922
+    second: attack_smooth_28
+  - first:
+      213: -5535757879654151718
+    second: attack_smooth_29
+  - first:
+      213: 1745968996061271629
+    second: attack_smooth_30
+  - first:
+      213: 8122331902638977010
+    second: attack_smooth_31
+  - first:
+      213: -4592252773469910679
+    second: attack_smooth_32
+  - first:
+      213: 6147044147893541905
+    second: attack_smooth_33
+  - first:
+      213: 7193979297249463423
+    second: attack_smooth_34
+  - first:
+      213: 8775860515008043512
+    second: attack_smooth_35
+  - first:
+      213: -7581425411920050048
+    second: attack_smooth_36
+  - first:
+      213: -4494498238834109552
+    second: attack_smooth_37
+  - first:
+      213: 6342355799515961773
+    second: attack_smooth_38
+  - first:
+      213: 3045549687991634495
+    second: attack_smooth_39
+  - first:
+      213: -7664889442245806631
+    second: attack_smooth_40
+  - first:
+      213: -141742228296757737
+    second: attack_smooth_41
+  - first:
+      213: -6323878017835244976
+    second: attack_smooth_42
+  - first:
+      213: 5170344023725560143
+    second: attack_smooth_43
+  - first:
+      213: -9219242339327692980
+    second: attack_smooth_44
+  - first:
+      213: 5647920117645120944
+    second: attack_smooth_45
+  - first:
+      213: -5567853245661190797
+    second: attack_smooth_46
+  - first:
+      213: -7348512121519595129
+    second: attack_smooth_47
+  - first:
+      213: -8628220663606028978
+    second: attack_smooth_48
+  - first:
+      213: 5541527477000152385
+    second: attack_smooth_49
+  - first:
+      213: 3928314942430440147
+    second: attack_smooth_50
+  - first:
+      213: -315070322614771843
+    second: attack_smooth_51
+  - first:
+      213: -6591202877740490706
+    second: attack_smooth_52
+  - first:
+      213: -1955286715970848768
+    second: attack_smooth_53
+  - first:
+      213: -7587022126004388571
+    second: attack_smooth_54
+  - first:
+      213: -4198946043296824681
+    second: attack_smooth_55
+  - first:
+      213: 7628655765087159532
+    second: attack_smooth_56
+  - first:
+      213: 6123150760168898826
+    second: attack_smooth_57
+  - first:
+      213: -267848004559478499
+    second: attack_smooth_58
+  - first:
+      213: -3074693001635075230
+    second: attack_smooth_59
+  - first:
+      213: 6059365222625147756
+    second: attack_smooth_60
+  - first:
+      213: -3348603061676179556
+    second: attack_smooth_61
+  - first:
+      213: -309268055330367683
+    second: attack_smooth_62
+  - first:
+      213: 1280685645410441442
+    second: attack_smooth_63
+  - first:
+      213: 3707953692281878675
+    second: attack_smooth_64
+  - first:
+      213: 6478962542364615367
+    second: attack_smooth_65
+  - first:
+      213: -1769304440286599798
+    second: attack_smooth_66
+  - first:
+      213: 5274027314806574273
+    second: attack_smooth_67
+  - first:
+      213: 1230854800794966658
+    second: attack_smooth_68
+  - first:
+      213: 7796501512776348730
+    second: attack_smooth_69
+  - first:
+      213: -4289391834722061277
+    second: attack_smooth_70
+  - first:
+      213: 5974326445391567980
+    second: attack_smooth_71
+  - first:
+      213: 6860133772010994666
+    second: attack_smooth_72
+  - first:
+      213: 9211890359606653007
+    second: attack_smooth_73
+  - first:
+      213: 3758673173487088666
+    second: attack_smooth_74
+  - first:
+      213: 3709776883847147028
+    second: attack_smooth_75
+  - first:
+      213: -36794805836040828
+    second: attack_smooth_76
+  - first:
+      213: -7272881382844696517
+    second: attack_smooth_77
+  - first:
+      213: 5638454400824050000
+    second: attack_smooth_78
+  - first:
+      213: -4522108990447748973
+    second: attack_smooth_79
+  - first:
+      213: 3023035723384711486
+    second: attack_smooth_80
+  - first:
+      213: -6592836958248135810
+    second: attack_smooth_81
+  - first:
+      213: 6419264864906797953
+    second: attack_smooth_82
+  - first:
+      213: 1508357730227166148
+    second: attack_smooth_83
+  - first:
+      213: 8308002151324347561
+    second: attack_smooth_84
+  - first:
+      213: 970402552654421557
+    second: attack_smooth_85
+  - first:
+      213: 8521221832078057489
+    second: attack_smooth_86
+  - first:
+      213: 6906639164217623559
+    second: attack_smooth_87
+  - first:
+      213: 5484892787388330269
+    second: attack_smooth_88
+  - first:
+      213: 3171964531283583832
+    second: attack_smooth_89
+  - first:
+      213: 7550506610764661236
+    second: attack_smooth_90
+  - first:
+      213: -1987529351917800514
+    second: attack_smooth_91
+  - first:
+      213: 7474050605896099319
+    second: attack_smooth_92
+  - first:
+      213: -5311159267680450491
+    second: attack_smooth_93
+  - first:
+      213: -1029140533350141700
+    second: attack_smooth_94
+  - first:
+      213: 2692763524550283626
+    second: attack_smooth_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: attack_smooth_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4d34052517b27d0800000000000000
+      internalID: -2942133333208607543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b328efcbcdb6030800000000000000
+      internalID: 3489125040610491294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_2
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7d792f2c6dc9d30800000000000000
+      internalID: 4439659465462503400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_3
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d1c5f72c26ddb80800000000000000
+      internalID: -8368423945084592765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_4
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70736539791bf340800000000000000
+      internalID: 4898537028072992895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_5
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5d8d64cd5e53a90800000000000000
+      internalID: -7334703683858803258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_6
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c063420b8d444d00800000000000000
+      internalID: 955974280343150786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_7
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0136b77d4ea90870800000000000000
+      internalID: 8649636207085891854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_8
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d5b5fa423fe10f0800000000000000
+      internalID: -1144209916419154607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_9
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6613c9b8298e39500800000000000000
+      internalID: 401920507871244646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_10
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647aac7403c0848c0800000000000000
+      internalID: -4014945666298370234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_11
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1554
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a88cf12911a80f50800000000000000
+      internalID: 6847900362733291680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1430103957c9160800000000000000
+      internalID: 7033625992283505076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_13
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce1719c4fb76a290800000000000000
+      internalID: -7879474206762131768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_14
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c9d3643ce0a77e0800000000000000
+      internalID: -1767083671929643961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_15
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be729c7e88db6be0800000000000000
+      internalID: -1482853545801515342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_16
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511e3592eef6c72f0800000000000000
+      internalID: -973780350732607211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_17
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f1d4b951c5ec580800000000000000
+      internalID: -8804998973593149654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_18
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7bbf78e29fd4680800000000000000
+      internalID: -8769078921175255055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_19
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac6b5f7a054a5940800000000000000
+      internalID: 5285613024061385890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_20
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b4e90b02bdf0220800000000000000
+      internalID: 2454421255388810125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_21
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ba38ea08402e230800000000000000
+      internalID: 3666497997363194720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_22
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd499ff62b46fac90800000000000000
+      internalID: -7156390565322844961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_23
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1332
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b630f436c5d9af000800000000000000
+      internalID: 70541764306338667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da39e292486af320800000000000000
+      internalID: 2592499170647030487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_25
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1022290a047e600800000000000000
+      internalID: 497437342238376397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_26
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2ac7e48abed0890800000000000000
+      internalID: -7490071497143442709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_27
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05707b6adb5af6a30800000000000000
+      internalID: 4210766410579117904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_28
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3df5191a9d90660800000000000000
+      internalID: 7352647154610983922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_29
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad905a4c9890d23b0800000000000000
+      internalID: -5535757879654151718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_30
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46d3172d8dea3810800000000000000
+      internalID: 1745968996061271629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_31
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff6e9cd4d158b070800000000000000
+      internalID: 8122331902638977010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_32
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969068eee6a0540c0800000000000000
+      internalID: -4592252773469910679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_33
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c96d58510be4550800000000000000
+      internalID: 6147044147893541905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_34
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c81163e0626d360800000000000000
+      internalID: 7193979297249463423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_35
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1110
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f95e6354ae1ac970800000000000000
+      internalID: 8775860515008043512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088c26781cd59c690800000000000000
+      internalID: -7581425411920050048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_37
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0939ca62aa550a1c0800000000000000
+      internalID: -4494498238834109552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_38
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da999451ff2940850800000000000000
+      internalID: 6342355799515961773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_39
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a0b822e47f34a20800000000000000
+      internalID: 3045549687991634495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_40
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5fb40a9a7d0a590800000000000000
+      internalID: -7664889442245806631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_41
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e03b0c13e680ef0800000000000000
+      internalID: -141742228296757737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_42
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0526708b2721d38a0800000000000000
+      internalID: -6323878017835244976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_43
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41d9b4fe70c0c740800000000000000
+      internalID: 5170344023725560143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_44
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fa12220fbae0080800000000000000
+      internalID: -9219242339327692980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_45
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5150c4c61716e40800000000000000
+      internalID: 5647920117645120944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_46
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375ebda09f20bb2b0800000000000000
+      internalID: -5567853245661190797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_47
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 888
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7812c29d827d40a90800000000000000
+      internalID: -7348512121519595129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45d31e4507624880800000000000000
+      internalID: -8628220663606028978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_49
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14529ab41e577ec40800000000000000
+      internalID: 5541527477000152385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_50
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3daec6580ad248630800000000000000
+      internalID: 3928314942430440147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_51
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f574df535a0abf0800000000000000
+      internalID: -315070322614771843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_52
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20eeb587e75784a0800000000000000
+      internalID: -6591202877740490706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_53
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0087484671d6dd4e0800000000000000
+      internalID: -1955286715970848768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_54
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dba7cf29b75b690800000000000000
+      internalID: -7587022126004388571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_55
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792c24212d85ab5c0800000000000000
+      internalID: -4198946043296824681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_56
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce481cffffd6ed960800000000000000
+      internalID: 7628655765087159532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_57
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01c70eac2dc9f450800000000000000
+      internalID: 6123150760168898826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_58
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d116f62b8a9684cf0800000000000000
+      internalID: -267848004559478499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_59
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 666
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b6924610f7455d0800000000000000
+      internalID: -3074693001635075230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b7deae090371450800000000000000
+      internalID: 6059365222625147756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_61
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f710fc14f5781d0800000000000000
+      internalID: -3348603061676179556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_62
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3758ad975245bbf0800000000000000
+      internalID: -309268055330367683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_63
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e891a32fc8e5c110800000000000000
+      internalID: 1280685645410441442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_64
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3983f00dc3c457330800000000000000
+      internalID: 3707953692281878675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_65
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c264b2fa16e9e950800000000000000
+      internalID: 6478962542364615367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_66
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8522395cfa2277e0800000000000000
+      internalID: -1769304440286599798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_67
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccc0ca56eb113940800000000000000
+      internalID: 5274027314806574273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_68
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ad7738befd41110800000000000000
+      internalID: 1230854800794966658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_69
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3474d771dcb23c60800000000000000
+      internalID: 7796501512776348730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_70
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3243eec3ad40974c0800000000000000
+      internalID: -4289391834722061277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_71
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 444
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c59cdaf3219e250800000000000000
+      internalID: 5974326445391567980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb3060b157143f50800000000000000
+      internalID: 6860133772010994666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_73
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f403332b97537df70800000000000000
+      internalID: 9211890359606653007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_74
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14fc74465d792430800000000000000
+      internalID: 3758673173487088666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_75
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e2aadab66cb7330800000000000000
+      internalID: 3709776883847147028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_76
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485309ca1574d7ff0800000000000000
+      internalID: -36794805836040828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_77
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b387df96ae8811b90800000000000000
+      internalID: -7272881382844696517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_78
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0510b5b5760df3e40800000000000000
+      internalID: 5638454400824050000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_79
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398f2c415dd3e31c0800000000000000
+      internalID: -4522108990447748973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_80
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3969a349faf3f920800000000000000
+      internalID: 3023035723384711486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_81
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e739d8187b98184a0800000000000000
+      internalID: -6592836958248135810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_82
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1836ae7426fc51950800000000000000
+      internalID: 6419264864906797953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_83
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 222
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb97603d53cee410800000000000000
+      internalID: 1508357730227166148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac6ede50f3fb4370800000000000000
+      internalID: 8308002151324347561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_85
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e5910faff877d00800000000000000
+      internalID: 970402552654421557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_86
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110e051eb16714670800000000000000
+      internalID: 8521221832078057489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_87
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7040ef61abf49df50800000000000000
+      internalID: 6906639164217623559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_88
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11326f0ee04e1c40800000000000000
+      internalID: 5484892787388330269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_89
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853eb477fe4150c20800000000000000
+      internalID: 3171964531283583832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_90
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1cdd812c9c8c860800000000000000
+      internalID: 7550506610764661236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_91
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3f646b590ea64e0800000000000000
+      internalID: -1987529351917800514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_92
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5eab54d6929b760800000000000000
+      internalID: 7474050605896099319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_93
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548026829c8fa46b0800000000000000
+      internalID: -5311159267680450491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_94
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf075b53322c7b1f0800000000000000
+      internalID: -1029140533350141700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_smooth_95
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 0
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61d2f0a82e9e5520800000000000000
+      internalID: 2692763524550283626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 993daf109604dfd45b0133b057f5a42b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      attack_smooth_0: -2942133333208607543
+      attack_smooth_1: 3489125040610491294
+      attack_smooth_10: -4014945666298370234
+      attack_smooth_11: 6847900362733291680
+      attack_smooth_12: 7033625992283505076
+      attack_smooth_13: -7879474206762131768
+      attack_smooth_14: -1767083671929643961
+      attack_smooth_15: -1482853545801515342
+      attack_smooth_16: -973780350732607211
+      attack_smooth_17: -8804998973593149654
+      attack_smooth_18: -8769078921175255055
+      attack_smooth_19: 5285613024061385890
+      attack_smooth_2: 4439659465462503400
+      attack_smooth_20: 2454421255388810125
+      attack_smooth_21: 3666497997363194720
+      attack_smooth_22: -7156390565322844961
+      attack_smooth_23: 70541764306338667
+      attack_smooth_24: 2592499170647030487
+      attack_smooth_25: 497437342238376397
+      attack_smooth_26: -7490071497143442709
+      attack_smooth_27: 4210766410579117904
+      attack_smooth_28: 7352647154610983922
+      attack_smooth_29: -5535757879654151718
+      attack_smooth_3: -8368423945084592765
+      attack_smooth_30: 1745968996061271629
+      attack_smooth_31: 8122331902638977010
+      attack_smooth_32: -4592252773469910679
+      attack_smooth_33: 6147044147893541905
+      attack_smooth_34: 7193979297249463423
+      attack_smooth_35: 8775860515008043512
+      attack_smooth_36: -7581425411920050048
+      attack_smooth_37: -4494498238834109552
+      attack_smooth_38: 6342355799515961773
+      attack_smooth_39: 3045549687991634495
+      attack_smooth_4: 4898537028072992895
+      attack_smooth_40: -7664889442245806631
+      attack_smooth_41: -141742228296757737
+      attack_smooth_42: -6323878017835244976
+      attack_smooth_43: 5170344023725560143
+      attack_smooth_44: -9219242339327692980
+      attack_smooth_45: 5647920117645120944
+      attack_smooth_46: -5567853245661190797
+      attack_smooth_47: -7348512121519595129
+      attack_smooth_48: -8628220663606028978
+      attack_smooth_49: 5541527477000152385
+      attack_smooth_5: -7334703683858803258
+      attack_smooth_50: 3928314942430440147
+      attack_smooth_51: -315070322614771843
+      attack_smooth_52: -6591202877740490706
+      attack_smooth_53: -1955286715970848768
+      attack_smooth_54: -7587022126004388571
+      attack_smooth_55: -4198946043296824681
+      attack_smooth_56: 7628655765087159532
+      attack_smooth_57: 6123150760168898826
+      attack_smooth_58: -267848004559478499
+      attack_smooth_59: -3074693001635075230
+      attack_smooth_6: 955974280343150786
+      attack_smooth_60: 6059365222625147756
+      attack_smooth_61: -3348603061676179556
+      attack_smooth_62: -309268055330367683
+      attack_smooth_63: 1280685645410441442
+      attack_smooth_64: 3707953692281878675
+      attack_smooth_65: 6478962542364615367
+      attack_smooth_66: -1769304440286599798
+      attack_smooth_67: 5274027314806574273
+      attack_smooth_68: 1230854800794966658
+      attack_smooth_69: 7796501512776348730
+      attack_smooth_7: 8649636207085891854
+      attack_smooth_70: -4289391834722061277
+      attack_smooth_71: 5974326445391567980
+      attack_smooth_72: 6860133772010994666
+      attack_smooth_73: 9211890359606653007
+      attack_smooth_74: 3758673173487088666
+      attack_smooth_75: 3709776883847147028
+      attack_smooth_76: -36794805836040828
+      attack_smooth_77: -7272881382844696517
+      attack_smooth_78: 5638454400824050000
+      attack_smooth_79: -4522108990447748973
+      attack_smooth_8: -1144209916419154607
+      attack_smooth_80: 3023035723384711486
+      attack_smooth_81: -6592836958248135810
+      attack_smooth_82: 6419264864906797953
+      attack_smooth_83: 1508357730227166148
+      attack_smooth_84: 8308002151324347561
+      attack_smooth_85: 970402552654421557
+      attack_smooth_86: 8521221832078057489
+      attack_smooth_87: 6906639164217623559
+      attack_smooth_88: 5484892787388330269
+      attack_smooth_89: 3171964531283583832
+      attack_smooth_9: 401920507871244646
+      attack_smooth_90: 7550506610764661236
+      attack_smooth_91: -1987529351917800514
+      attack_smooth_92: 7474050605896099319
+      attack_smooth_93: -5311159267680450491
+      attack_smooth_94: -1029140533350141700
+      attack_smooth_95: 2692763524550283626
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

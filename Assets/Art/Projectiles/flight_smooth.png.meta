@@ -1,0 +1,2641 @@
+fileFormatVersion: 2
+guid: 73de9ae35d3797f4581f48c99acb69ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6866325647720622911
+    second: flight_smooth_0
+  - first:
+      213: 8295009887388320455
+    second: flight_smooth_1
+  - first:
+      213: 8116520198027530625
+    second: flight_smooth_2
+  - first:
+      213: -5400897507321009919
+    second: flight_smooth_3
+  - first:
+      213: 6084467274215818061
+    second: flight_smooth_4
+  - first:
+      213: -4685081145585697892
+    second: flight_smooth_5
+  - first:
+      213: 51602916728232962
+    second: flight_smooth_6
+  - first:
+      213: 3549378303199398483
+    second: flight_smooth_7
+  - first:
+      213: 6404221676592581462
+    second: flight_smooth_8
+  - first:
+      213: 8904805173807377400
+    second: flight_smooth_9
+  - first:
+      213: 479688090775397424
+    second: flight_smooth_10
+  - first:
+      213: -964496968069616666
+    second: flight_smooth_11
+  - first:
+      213: 1411752939153410007
+    second: flight_smooth_12
+  - first:
+      213: -8211673116537228955
+    second: flight_smooth_13
+  - first:
+      213: -529795630590266613
+    second: flight_smooth_14
+  - first:
+      213: -1120835889419473543
+    second: flight_smooth_15
+  - first:
+      213: -4738313990572296365
+    second: flight_smooth_16
+  - first:
+      213: 1379341386042764321
+    second: flight_smooth_17
+  - first:
+      213: -5172912930044599990
+    second: flight_smooth_18
+  - first:
+      213: -661204533834578186
+    second: flight_smooth_19
+  - first:
+      213: -3402505241191325753
+    second: flight_smooth_20
+  - first:
+      213: 1342139754224056544
+    second: flight_smooth_21
+  - first:
+      213: -3159894421314262532
+    second: flight_smooth_22
+  - first:
+      213: -1439713371423942482
+    second: flight_smooth_23
+  - first:
+      213: -9053224935527856608
+    second: flight_smooth_24
+  - first:
+      213: 8030362320146381795
+    second: flight_smooth_25
+  - first:
+      213: -3270068544819787703
+    second: flight_smooth_26
+  - first:
+      213: 811697423709913388
+    second: flight_smooth_27
+  - first:
+      213: -3360470480184656605
+    second: flight_smooth_28
+  - first:
+      213: 3665295341557653851
+    second: flight_smooth_29
+  - first:
+      213: -817397691052697811
+    second: flight_smooth_30
+  - first:
+      213: 3071577540930167847
+    second: flight_smooth_31
+  - first:
+      213: -854748170577530004
+    second: flight_smooth_32
+  - first:
+      213: -8842154919953264800
+    second: flight_smooth_33
+  - first:
+      213: 4863579583068587468
+    second: flight_smooth_34
+  - first:
+      213: 6830232994367986612
+    second: flight_smooth_35
+  - first:
+      213: -7110204790764653877
+    second: flight_smooth_36
+  - first:
+      213: 461130585497460807
+    second: flight_smooth_37
+  - first:
+      213: 2723268087328120529
+    second: flight_smooth_38
+  - first:
+      213: 2168420732539760694
+    second: flight_smooth_39
+  - first:
+      213: -6265278978958054890
+    second: flight_smooth_40
+  - first:
+      213: 7120841866638117474
+    second: flight_smooth_41
+  - first:
+      213: -8251321038793921213
+    second: flight_smooth_42
+  - first:
+      213: 8498154923973509743
+    second: flight_smooth_43
+  - first:
+      213: 5301438753460923877
+    second: flight_smooth_44
+  - first:
+      213: -7078201997561344474
+    second: flight_smooth_45
+  - first:
+      213: 1279002870685602724
+    second: flight_smooth_46
+  - first:
+      213: 6345118340774426455
+    second: flight_smooth_47
+  - first:
+      213: -7395331706006941088
+    second: flight_smooth_48
+  - first:
+      213: 6098042024136697372
+    second: flight_smooth_49
+  - first:
+      213: 5919090849724800290
+    second: flight_smooth_50
+  - first:
+      213: -453975261748412794
+    second: flight_smooth_51
+  - first:
+      213: 7554981265864568941
+    second: flight_smooth_52
+  - first:
+      213: 5405695284447300175
+    second: flight_smooth_53
+  - first:
+      213: 5351274160268448343
+    second: flight_smooth_54
+  - first:
+      213: 4121218066252925060
+    second: flight_smooth_55
+  - first:
+      213: 6071509745154747264
+    second: flight_smooth_56
+  - first:
+      213: -8439908518371408584
+    second: flight_smooth_57
+  - first:
+      213: 1559014835781066992
+    second: flight_smooth_58
+  - first:
+      213: -2323469486005705589
+    second: flight_smooth_59
+  - first:
+      213: -1836028431268024698
+    second: flight_smooth_60
+  - first:
+      213: -6163321082457912390
+    second: flight_smooth_61
+  - first:
+      213: -3479280629435208376
+    second: flight_smooth_62
+  - first:
+      213: -5147638825496825346
+    second: flight_smooth_63
+  - first:
+      213: 2172515573277422218
+    second: flight_smooth_64
+  - first:
+      213: 4902811996728057961
+    second: flight_smooth_65
+  - first:
+      213: 8173525366966069291
+    second: flight_smooth_66
+  - first:
+      213: -1964713054638392945
+    second: flight_smooth_67
+  - first:
+      213: -7772158830546742002
+    second: flight_smooth_68
+  - first:
+      213: 7790551472604659011
+    second: flight_smooth_69
+  - first:
+      213: -7258096522584470885
+    second: flight_smooth_70
+  - first:
+      213: -820838677143428493
+    second: flight_smooth_71
+  - first:
+      213: -9064735670257419630
+    second: flight_smooth_72
+  - first:
+      213: 7016511119506096293
+    second: flight_smooth_73
+  - first:
+      213: -4283217304718085095
+    second: flight_smooth_74
+  - first:
+      213: 6545316068825273077
+    second: flight_smooth_75
+  - first:
+      213: 911231066162938174
+    second: flight_smooth_76
+  - first:
+      213: 75314861022854219
+    second: flight_smooth_77
+  - first:
+      213: -2482374480249092413
+    second: flight_smooth_78
+  - first:
+      213: -3665409266160291814
+    second: flight_smooth_79
+  - first:
+      213: 4984952566585649678
+    second: flight_smooth_80
+  - first:
+      213: -6235219945495343285
+    second: flight_smooth_81
+  - first:
+      213: -827017776226229772
+    second: flight_smooth_82
+  - first:
+      213: -3490317031263564665
+    second: flight_smooth_83
+  - first:
+      213: -6569388653851153499
+    second: flight_smooth_84
+  - first:
+      213: -2334894307878126754
+    second: flight_smooth_85
+  - first:
+      213: 1322554646929357719
+    second: flight_smooth_86
+  - first:
+      213: 4228524235341352396
+    second: flight_smooth_87
+  - first:
+      213: 3715124540892540409
+    second: flight_smooth_88
+  - first:
+      213: -1549671613055354122
+    second: flight_smooth_89
+  - first:
+      213: 8330325509920612673
+    second: flight_smooth_90
+  - first:
+      213: 8925794893779570992
+    second: flight_smooth_91
+  - first:
+      213: 32385011478182839
+    second: flight_smooth_92
+  - first:
+      213: 2432056473280058725
+    second: flight_smooth_93
+  - first:
+      213: 2174496579009013424
+    second: flight_smooth_94
+  - first:
+      213: 2015218082531613332
+    second: flight_smooth_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flight_smooth_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3baa881cc61a4f50800000000000000
+      internalID: 6866325647720622911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1050
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c242223b8bcd1370800000000000000
+      internalID: 8295009887388320455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1050
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181d6bfed1ca3a070800000000000000
+      internalID: 8116520198027530625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1050
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109a6df05582c05b0800000000000000
+      internalID: -5400897507321009919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1050
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d438f1fbfbe507450800000000000000
+      internalID: 6084467274215818061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1050
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bfb7d458f3bfeb0800000000000000
+      internalID: -4685081145585697892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1050
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cd5f0549457b000800000000000000
+      internalID: 51602916728232962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1050
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35acda7e2cce14130800000000000000
+      internalID: 3549378303199398483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_8
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1050
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b48201fad50e850800000000000000
+      internalID: 6404221676592581462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_9
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1050
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb69da3029349b70800000000000000
+      internalID: 8904805173807377400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_10
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1050
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03427ade6c138a600800000000000000
+      internalID: 479688090775397424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_11
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1050
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebe44f1e1b6d92f0800000000000000
+      internalID: -964496968069616666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d74ad081dd879310800000000000000
+      internalID: 1411752939153410007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_13
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 900
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5617c2dcec64a0e80800000000000000
+      internalID: -8211673116537228955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_14
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 900
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03fc135ea9c5a8f0800000000000000
+      internalID: -529795630590266613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_15
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 900
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97da4af62bdf170f0800000000000000
+      internalID: -1120835889419473543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_16
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 900
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357bcadb7802e3eb0800000000000000
+      internalID: -4738313990572296365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_17
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 900
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ce21bbea7642310800000000000000
+      internalID: 1379341386042764321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_18
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 900
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41aaaee81f1638b0800000000000000
+      internalID: -5172912930044599990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_19
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 900
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f689eccafde2d6f0800000000000000
+      internalID: -661204533834578186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_20
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 900
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfd268a28fd7c0d0800000000000000
+      internalID: -3402505241191325753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_21
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 900
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e87479defc30a210800000000000000
+      internalID: 1342139754224056544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_22
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 900
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf923d104ccc524d0800000000000000
+      internalID: -3159894421314262532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_23
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 900
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea855ed015c150ce0800000000000000
+      internalID: -1439713371423942482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026472e13eb7c5280800000000000000
+      internalID: -9053224935527856608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_25
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 750
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebb106cbf3917f60800000000000000
+      internalID: 8030362320146381795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_26
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 750
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94886daebf16e92d0800000000000000
+      internalID: -3270068544819787703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_27
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 750
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21445d918ab34b00800000000000000
+      internalID: 811697423709913388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_28
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 750
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d386e17e53d51d0800000000000000
+      internalID: -3360470480184656605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_29
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 750
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51207e81bebdd230800000000000000
+      internalID: 3665295341557653851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_30
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 750
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d275498712508a4f0800000000000000
+      internalID: -817397691052697811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_31
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 750
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724e533ef7f60aa20800000000000000
+      internalID: 3071577540930167847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_32
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 750
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63bf4841135324f0800000000000000
+      internalID: -854748170577530004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_33
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 750
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f8633b2fa5a4580800000000000000
+      internalID: -8842154919953264800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_34
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 750
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc545a9ccd7ee7340800000000000000
+      internalID: 4863579583068587468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_35
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 750
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbd47268bcd9ce50800000000000000
+      internalID: 6830232994367986612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2313e0a6a735d90800000000000000
+      internalID: -7110204790764653877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_37
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 600
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740e4a703d3466600800000000000000
+      internalID: 461130585497460807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_38
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 600
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de995d95edfac520800000000000000
+      internalID: 2723268087328120529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_39
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 600
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630ff9eda27c71e10800000000000000
+      internalID: 2168420732539760694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_40
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 600
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61aab78a6f14d09a0800000000000000
+      internalID: -6265278978958054890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_41
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 600
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ac1ba23ff42d260800000000000000
+      internalID: 7120841866638117474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_42
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 600
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d2bfa8b3b6d7d80800000000000000
+      internalID: -8251321038793921213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_43
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 600
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f628da1d0e28fe570800000000000000
+      internalID: 8498154923973509743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_44
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 600
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed2782457e729940800000000000000
+      internalID: 5301438753460923877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_45
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 600
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e45eef8cc25cd90800000000000000
+      internalID: -7078201997561344474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_46
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 600
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a39bed955eefb110800000000000000
+      internalID: 1279002870685602724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_47
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 600
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757fca753836e0850800000000000000
+      internalID: 6345118340774426455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062d54bdef08e5990800000000000000
+      internalID: -7395331706006941088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_49
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 450
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16621289e890a450800000000000000
+      internalID: 6098042024136697372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_50
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 450
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d9c1364c5d42250800000000000000
+      internalID: 5919090849724800290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_51
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 450
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ebbaa97e723b9f0800000000000000
+      internalID: -453975261748412794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_52
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 450
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60b69cee6fa8d860800000000000000
+      internalID: 7554981265864568941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_53
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 450
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a4c797833e40b40800000000000000
+      internalID: 5405695284447300175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_54
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 450
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752178a1f7b834a40800000000000000
+      internalID: 5351274160268448343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_55
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 450
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4888de00ff1813930800000000000000
+      internalID: 4121218066252925060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_56
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 450
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b654ae1f5524450800000000000000
+      internalID: 6071509745154747264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_57
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 450
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835cda94beb6fda80800000000000000
+      internalID: -8439908518371408584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_58
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 450
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f06b4eabbbb2a510800000000000000
+      internalID: 1559014835781066992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_59
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 450
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84ab2010d061cfd0800000000000000
+      internalID: -2323469486005705589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e60c49edd1586e0800000000000000
+      internalID: -1836028431268024698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_61
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 300
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb8b63512c777aa0800000000000000
+      internalID: -6163321082457912390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_62
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 300
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ded9893bc17bfc0800000000000000
+      internalID: -3479280629435208376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_63
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 300
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1b046f2c9ef88b0800000000000000
+      internalID: -5147638825496825346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_64
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 300
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8274364763562e10800000000000000
+      internalID: 2172515573277422218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_65
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 300
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960ef79e8894a0440800000000000000
+      internalID: 4902811996728057961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_66
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 300
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2828ac14023e6170800000000000000
+      internalID: 8173525366966069291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_67
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 300
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89b4b4e2efebb4e0800000000000000
+      internalID: -1964713054638392945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_68
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 300
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e059857e8beb32490800000000000000
+      internalID: -7772158830546742002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_69
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 300
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d3ff8c9499d1c60800000000000000
+      internalID: 7790551472604659011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_70
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 300
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9acad1faaf064b90800000000000000
+      internalID: -7258096522584470885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_71
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 300
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372e6f6729bcb94f0800000000000000
+      internalID: -820838677143428493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a7e775fe6933280800000000000000
+      internalID: -9064735670257419630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_73
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 150
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a04db820b7af5160800000000000000
+      internalID: 7016511119506096293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_74
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 150
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914f8780e84fe84c0800000000000000
+      internalID: -4283217304718085095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_75
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 150
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f29cf83942a5da50800000000000000
+      internalID: 6545316068825273077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_76
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 150
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3141f6a3d755ac00800000000000000
+      internalID: 911231066162938174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_77
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 150
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c339197729b0100800000000000000
+      internalID: 75314861022854219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_78
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 150
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c60249ff85dc8dd0800000000000000
+      internalID: -2482374480249092413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_79
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 150
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10371e41b9d12dc0800000000000000
+      internalID: -3665409266160291814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_80
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 150
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a6289a2fb1e2540800000000000000
+      internalID: 4984952566585649678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_81
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 150
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fc154ce7c0879a0800000000000000
+      internalID: -6235219945495343285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_82
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 150
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f12a19d6b7d584f0800000000000000
+      internalID: -827017776226229772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_83
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 150
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c0a0e0727ef8fc0800000000000000
+      internalID: -3490317031263564665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab68bf43d7d4d4a0800000000000000
+      internalID: -6569388653851153499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_85
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bb7de6ff9c89fd0800000000000000
+      internalID: -2334894307878126754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_86
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b3446b178aa5210800000000000000
+      internalID: 1322554646929357719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_87
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdc6ab636cbeaa30800000000000000
+      internalID: 4228524235341352396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_88
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 0
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd6c3c1616ce8330800000000000000
+      internalID: 3715124540892540409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_89
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 0
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa3451e0e57e7ae0800000000000000
+      internalID: -1549671613055354122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_90
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14161325ae24b9370800000000000000
+      internalID: 8330325509920612673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_91
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 0
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0311abd3a2bcedb70800000000000000
+      internalID: 8925794893779570992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_92
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 0
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb34311ffd037000800000000000000
+      internalID: 32385011478182839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_93
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 0
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5651c831a7660c120800000000000000
+      internalID: 2432056473280058725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_94
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 0
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6622d1e1d5d2e10800000000000000
+      internalID: 2174496579009013424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flight_smooth_95
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 0
+        width: 181
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a9d324b2e77fb10800000000000000
+      internalID: 2015218082531613332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: be75a54fbc6769c46980bbba8ef48836
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":12.0,"y":8.0},"gridSpriteSize":{"x":181.0,"y":150.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      flight_smooth_0: 6866325647720622911
+      flight_smooth_1: 8295009887388320455
+      flight_smooth_10: 479688090775397424
+      flight_smooth_11: -964496968069616666
+      flight_smooth_12: 1411752939153410007
+      flight_smooth_13: -8211673116537228955
+      flight_smooth_14: -529795630590266613
+      flight_smooth_15: -1120835889419473543
+      flight_smooth_16: -4738313990572296365
+      flight_smooth_17: 1379341386042764321
+      flight_smooth_18: -5172912930044599990
+      flight_smooth_19: -661204533834578186
+      flight_smooth_2: 8116520198027530625
+      flight_smooth_20: -3402505241191325753
+      flight_smooth_21: 1342139754224056544
+      flight_smooth_22: -3159894421314262532
+      flight_smooth_23: -1439713371423942482
+      flight_smooth_24: -9053224935527856608
+      flight_smooth_25: 8030362320146381795
+      flight_smooth_26: -3270068544819787703
+      flight_smooth_27: 811697423709913388
+      flight_smooth_28: -3360470480184656605
+      flight_smooth_29: 3665295341557653851
+      flight_smooth_3: -5400897507321009919
+      flight_smooth_30: -817397691052697811
+      flight_smooth_31: 3071577540930167847
+      flight_smooth_32: -854748170577530004
+      flight_smooth_33: -8842154919953264800
+      flight_smooth_34: 4863579583068587468
+      flight_smooth_35: 6830232994367986612
+      flight_smooth_36: -7110204790764653877
+      flight_smooth_37: 461130585497460807
+      flight_smooth_38: 2723268087328120529
+      flight_smooth_39: 2168420732539760694
+      flight_smooth_4: 6084467274215818061
+      flight_smooth_40: -6265278978958054890
+      flight_smooth_41: 7120841866638117474
+      flight_smooth_42: -8251321038793921213
+      flight_smooth_43: 8498154923973509743
+      flight_smooth_44: 5301438753460923877
+      flight_smooth_45: -7078201997561344474
+      flight_smooth_46: 1279002870685602724
+      flight_smooth_47: 6345118340774426455
+      flight_smooth_48: -7395331706006941088
+      flight_smooth_49: 6098042024136697372
+      flight_smooth_5: -4685081145585697892
+      flight_smooth_50: 5919090849724800290
+      flight_smooth_51: -453975261748412794
+      flight_smooth_52: 7554981265864568941
+      flight_smooth_53: 5405695284447300175
+      flight_smooth_54: 5351274160268448343
+      flight_smooth_55: 4121218066252925060
+      flight_smooth_56: 6071509745154747264
+      flight_smooth_57: -8439908518371408584
+      flight_smooth_58: 1559014835781066992
+      flight_smooth_59: -2323469486005705589
+      flight_smooth_6: 51602916728232962
+      flight_smooth_60: -1836028431268024698
+      flight_smooth_61: -6163321082457912390
+      flight_smooth_62: -3479280629435208376
+      flight_smooth_63: -5147638825496825346
+      flight_smooth_64: 2172515573277422218
+      flight_smooth_65: 4902811996728057961
+      flight_smooth_66: 8173525366966069291
+      flight_smooth_67: -1964713054638392945
+      flight_smooth_68: -7772158830546742002
+      flight_smooth_69: 7790551472604659011
+      flight_smooth_7: 3549378303199398483
+      flight_smooth_70: -7258096522584470885
+      flight_smooth_71: -820838677143428493
+      flight_smooth_72: -9064735670257419630
+      flight_smooth_73: 7016511119506096293
+      flight_smooth_74: -4283217304718085095
+      flight_smooth_75: 6545316068825273077
+      flight_smooth_76: 911231066162938174
+      flight_smooth_77: 75314861022854219
+      flight_smooth_78: -2482374480249092413
+      flight_smooth_79: -3665409266160291814
+      flight_smooth_8: 6404221676592581462
+      flight_smooth_80: 4984952566585649678
+      flight_smooth_81: -6235219945495343285
+      flight_smooth_82: -827017776226229772
+      flight_smooth_83: -3490317031263564665
+      flight_smooth_84: -6569388653851153499
+      flight_smooth_85: -2334894307878126754
+      flight_smooth_86: 1322554646929357719
+      flight_smooth_87: 4228524235341352396
+      flight_smooth_88: 3715124540892540409
+      flight_smooth_89: -1549671613055354122
+      flight_smooth_9: 8904805173807377400
+      flight_smooth_90: 8330325509920612673
+      flight_smooth_91: 8925794893779570992
+      flight_smooth_92: 32385011478182839
+      flight_smooth_93: 2432056473280058725
+      flight_smooth_94: 2174496579009013424
+      flight_smooth_95: 2015218082531613332
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
